@@ -11,8 +11,6 @@
             padding: 0;
             box-sizing: border-box;
             font-family: poppins;
-            background-image: url('pexels-designstrive-1334312.jpg');
-            background-color: rgba(0,0,0,0.5);
             background-size: cover;
             background-position: center;
         }
@@ -534,32 +532,19 @@
         }
 
         // Call your trained model API
-        async function callAgricultureModel(query) {
-            // Replace this with your actual API endpoint
-            // Example: const response = await fetch('YOUR_API_ENDPOINT', {...})
+       // Call your trained model API (Flask backend)
+async function callAgricultureModel(query) {
+    const response = await fetch('http://127.0.0.1:5000/ask', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ query })
+    });
 
-            // For now, returning mock responses based on keywords
-            const mockResponses = {
-                'soil fertility': 'To improve soil fertility: 1) Add organic matter (compost, manure) to increase nutrients. 2) Practice crop rotation to restore nitrogen. 3) Use green manure crops. 4) Apply balanced fertilizers based on soil testing. 5) Maintain proper pH levels (6.0-7.0 for most crops). Test your soil annually for best results.',
-                'crop diseases': 'Common crop diseases include: 1) Powdery mildew - use sulfur fungicides. 2) Root rot - improve drainage and avoid overwatering. 3) Leaf spot - remove affected leaves and improve air circulation. 4) Blight - use resistant varieties and proper crop rotation. Always use preventive measures like proper spacing and sanitation.',
-                'irrigation': 'Best irrigation techniques: 1) Drip irrigation - most efficient, water directly to roots. 2) Sprinkler irrigation - good for large areas. 3) Flood irrigation - simple but less efficient. Water early morning or evening to reduce evaporation. Monitor soil moisture and adjust based on rainfall.',
-                'pest management': 'Natural pest management: 1) Introduce beneficial insects like ladybugs. 2) Use neem oil spray for many pests. 3) Practice crop rotation. 4) Remove affected plants early. 5) Use row covers for seedlings. 6) Plant companion crops that repel pests. Monitor regularly for early detection.'
-            };
-
-            // Simulate API delay
-            await new Promise(resolve => setTimeout(resolve, 1500));
-
-            // Find matching response
-            const lowerQuery = query.toLowerCase();
-            for (const [key, response] of Object.entries(mockResponses)) {
-                if (lowerQuery.includes(key)) {
-                    return response;
-                }
-            }
-
-            // Default response
-            return `Thank you for your question about "${query}". This is an excellent agricultural topic. To get a more detailed response, our AI models would analyze current weather patterns, soil conditions, and regional farming practices specific to your area. Please provide more details such as your location, crop type, and specific challenges you're facing for a more personalized recommendation.`;
-        }
+    const data = await response.json();
+    return data.response;
+}
 
         // Focus input on load
         queryInput.focus();
