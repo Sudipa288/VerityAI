@@ -1,0 +1,701 @@
+Crop,Type,Soil,Ideal_Temp_C,Rainfall_mm,Season,Recommended_Fertilizer,Common_Pests/Diseases,Region_States,Sowing_Period,Harvest_Period,Average_Yield
+Masoor,Pulse,Sandy,17-27,500-700,Kharif,Balanced NPK 100:50:50,Mosaic virus,Delhi,Jun-Jul,Sep-Oct,3.17
+Bajra,Cereal,Black (Regur),16-26,500-1300,Annual,Urea,Thrips,Assam,Varies,Varies,3.92
+Saffron,Vegetable,Loamy,28-38,600-700,Rabi,No fertilizer (organic),Powdery mildew,Maharashtra,Oct-Nov,Mar-Apr,1.76
+Cabbage,Vegetable,Black (Regur),22-32,300-600,Zaid,Compost,Bacterial blight,Himachal Pradesh,Mar-Apr,Jun-Jul,1.17
+Soybean,Oilseed,Black (Regur),27-37,600-1400,Zaid,Compost,Brown spot,Nagaland,Mar-Apr,Jun-Jul,1.48
+Okra,Vegetable,Laterite,13-23,800-1100,Perennial,Balanced NPK 100:50:50,Nematode,Odisha,Varies,Varies,2.1
+Garlic,Vegetable,Saline,30-40,400-1200,Rabi,Muriate of Potash,Late blight,Rajasthan,Oct-Nov,Mar-Apr,2.52
+Apple,Fruit,Alluvial,17-27,200-500,Perennial,NPK 12:32:16,Aphids,Assam,Varies,Varies,26
+Rapeseed,Oilseed,Loamy,22-32,1500-2000,Rabi,NPK 12:32:16,Cutworm,Kerala,Oct-Nov,Mar-Apr,3.85
+Cardamom,Spice,Sandy Loam,17-27,400-1200,Perennial,DAP,None common,Punjab,Varies,Varies,3.85
+Sugarcane,Plantation,Saline,12-22,800-1300,Annual,Gypsum,Locusts,Karnataka,Varies,Varies,95
+Wheat,Cereal,Peaty,18-28,1500-1800,Kharif,NPK 12:32:16,Powdery mildew,Odisha,Jun-Jul,Sep-Oct,3.23
+Onion,Vegetable,Red,26-36,300-600,Annual,Compost,Brown spot,West Bengal,Varies,Varies,2.06
+Rice,Cereal,Loamy,10-20,300-600,Zaid,NPK 20:20:0,Leaf roller,Kerala,Mar-Apr,Jun-Jul,4.79
+Gram,Pulse,Black (Regur),27-37,400-600,Perennial,Lime,Blast disease,Karnataka,Varies,Varies,3.12
+Mango,Fruit,Laterite,19-29,800-1100,Perennial,Lime,Late blight,Bihar,Varies,Varies,15
+Apple,Fruit,Sandy Loam,10-20,1200-2000,Rabi,Compost,Rust,Uttar Pradesh,Oct-Nov,Mar-Apr,10
+Jowar,Cereal,Black (Regur),11-21,700-800,Annual,NPK 20:20:0,Bacterial blight,Meghalaya,Varies,Varies,2.89
+Bitter Gourd,Vegetable,Loamy,23-33,500-600,Kharif,Balanced NPK 100:50:50,Powdery mildew,Gujarat,Jun-Jul,Sep-Oct,2.58
+Ragi,Cereal,Alluvial,22-32,700-800,Rabi,NPK 20:20:0,Brown spot,Jharkhand,Oct-Nov,Mar-Apr,2.62
+Chili,Vegetable,Laterite,12-22,900-1700,Kharif,Urea,Powdery mildew,Jharkhand,Jun-Jul,Sep-Oct,4.66
+Grapes,Fruit,Clay Loam,25-35,900-1100,Perennial,Urea,Blast disease,Rajasthan,Varies,Varies,0.94
+Pumpkin,Fruit,Clay Loam,27-37,1500-2000,Rabi,NPK 20:20:0,Pod borer,Assam,Oct-Nov,Mar-Apr,4.72
+Jowar,Cereal,Alluvial,11-21,1200-1700,Annual,Lime,Blast disease,Punjab,Varies,Varies,4.14
+Coffee,Plantation,Saline,12-22,1500-1700,Perennial,DAP,Fall armyworm,Kerala,Varies,Varies,2.45
+Barley,Cereal,Clay Loam,28-38,1200-2000,Zaid,NPK 12:32:16,Brown spot,Meghalaya,Mar-Apr,Jun-Jul,3.41
+Pear,Fruit,Sandy,24-34,700-800,Kharif,Gypsum,Fungal wilt,Goa,Jun-Jul,Sep-Oct,4.27
+Mango,Fruit,Sandy,14-24,700-800,Rabi,Organic FYM,Pod borer,Odisha,Oct-Nov,Mar-Apr,22
+Coriander,Other,Alluvial,27-37,600-700,Rabi,NPK 12:32:16,Whitefly,Delhi,Oct-Nov,Mar-Apr,1.5
+Garlic,Vegetable,Saline,16-26,700-900,Zaid,Lime,Early blight,Karnataka,Mar-Apr,Jun-Jul,4.78
+Tur (Pigeon Pea),Pulse,Sandy,11-21,200-500,Rabi,Balanced NPK 100:50:50,Bacterial blight,Odisha,Oct-Nov,Mar-Apr,3.85
+Cardamom,Other,Alluvial,13-23,300-500,Annual,Urea,Nematode,Goa,Varies,Varies,3.02
+Barley,Cereal,Sandy Loam,11-21,700-900,Rabi,Balanced NPK 100:50:50,Whitefly,Gujarat,Oct-Nov,Mar-Apr,4.36
+Lentil,Pulse,Laterite,15-25,400-900,Kharif,Muriate of Potash,Mosaic virus,Puducherry,Jun-Jul,Sep-Oct,2.75
+Potato,Vegetable,Red,13-23,800-900,Perennial,NPK 20:20:0,Brown spot,Jammu & Kashmir,Varies,Varies,4.28
+Orange,Fruit,Alluvial,16-26,800-1100,Zaid,DAP,None common,Karnataka,Mar-Apr,Jun-Jul,2.36
+Spinach,Vegetable,Black (Regur),18-28,400-1200,Zaid,Urea,Whitefly,Sikkim,Mar-Apr,Jun-Jul,2.91
+Rapeseed,Oilseed,Saline,26-36,300-800,Annual,NPK 20:20:0,Bacterial blight,Punjab,Varies,Varies,3.12
+Arecanut,Plantation,Clay Loam,12-22,1500-1800,Annual,Organic FYM,Anthracnose,Uttarakhand,Varies,Varies,1.95
+Tobacco,Cash Crop,Clay Loam,20-30,800-1100,Annual,Muriate of Potash,Brown spot,Madhya Pradesh,Varies,Varies,3.38
+Tea,Plantation,Clay Loam,27-37,200-500,Zaid,NPK 20:20:0,Powdery mildew,Himachal Pradesh,Mar-Apr,Jun-Jul,2.45
+Safflower,Oilseed,Loamy,24-34,1500-1700,Annual,Gypsum,Mosaic virus,Odisha,Varies,Varies,3.25
+Spinach,Vegetable,Laterite,19-29,500-700,Rabi,Urea,Leaf roller,Kerala,Oct-Nov,Mar-Apr,4.81
+Pearl Millet,Cereal,Clay Loam,30-40,1200-1400,Perennial,Gypsum,Fruit borer,Kerala,Varies,Varies,1.8
+Urad,Pulse,Laterite,15-25,1000-1500,Kharif,Lime,Rust,Puducherry,Jun-Jul,Sep-Oct,4.14
+Bottle Gourd,Other,Peaty,29-39,700-1200,Annual,No fertilizer (organic),Locusts,Madhya Pradesh,Varies,Varies,4.18
+Sugarcane,Plantation,Loamy,18-28,500-800,Annual,Gypsum,Powdery mildew,Kerala,Varies,Varies,77
+Cinnamon,Pulse,Sandy,17-27,600-900,Zaid,Lime,Aphids,West Bengal,Mar-Apr,Jun-Jul,1.48
+Cotton,Vegetable,Black (Regur),23-33,800-1100,Annual,Gypsum,Powdery mildew,Punjab,Varies,Varies,1.73
+Maize,Cereal,Loamy,10-20,700-1000,Perennial,Ammonium Sulphate,Thrips,Arunachal Pradesh,Varies,Varies,4.1
+Apple,Fruit,Laterite,18-28,800-1300,Kharif,Ammonium Sulphate,Root rot,Meghalaya,Jun-Jul,Sep-Oct,29
+Pomegranate,Fruit,Loamy,14-24,1200-2000,Kharif,Ammonium Sulphate,Fall armyworm,Goa,Jun-Jul,Sep-Oct,3.05
+Cardamom,Oilseed,Loamy,15-25,200-500,Perennial,Organic FYM,Brown spot,Chhattisgarh,Varies,Varies,2.55
+Guava,Fruit,Clay Loam,18-28,300-800,Kharif,No fertilizer (organic),Thrips,Punjab,Jun-Jul,Sep-Oct,19
+Apple,Fruit,Alluvial,10-20,500-700,Kharif,Compost,Cutworm,Kerala,Jun-Jul,Sep-Oct,12
+Bitter Gourd,Pulse,Saline,16-26,900-1200,Zaid,Muriate of Potash,Fungal wilt,Sikkim,Mar-Apr,Jun-Jul,4.86
+Sugarcane,Plantation,Black (Regur),28-38,200-500,Annual,Balanced NPK 100:50:50,Fruit borer,Rajasthan,Varies,Varies,120
+Arecanut,Plantation,Saline,30-40,500-600,Zaid,Balanced NPK 100:50:50,Fungal wilt,Himachal Pradesh,Mar-Apr,Jun-Jul,2.03
+Barley,Cereal,Peaty,23-33,1500-1800,Kharif,Lime,Powdery mildew,Maharashtra,Jun-Jul,Sep-Oct,1.01
+Drumstick,Pulse,Clay Loam,21-31,1500-2000,Rabi,Ammonium Sulphate,Blast disease,Arunachal Pradesh,Oct-Nov,Mar-Apr,3.15
+Bottle Gourd,Plantation,Clay Loam,28-38,600-900,Rabi,DAP,Bacterial blight,Delhi,Oct-Nov,Mar-Apr,2.99
+Guava,Fruit,Alluvial,25-35,700-900,Perennial,NPK 20:20:0,Nematode,Himachal Pradesh,Varies,Varies,16
+Cabbage,Vegetable,Saline,18-28,1000-1100,Annual,NPK 20:20:0,Aphids,Kerala,Varies,Varies,3.7
+Grapes,Fruit,Loamy,24-34,200-300,Zaid,NPK 20:20:0,Fruit borer,Nagaland,Mar-Apr,Jun-Jul,2.13
+Papaya,Fruit,Peaty,26-36,700-1200,Annual,Organic FYM,Nematode,Nagaland,Varies,Varies,2.52
+Orange,Fruit,Laterite,20-30,300-1100,Rabi,NPK 20:20:0,Brown spot,Arunachal Pradesh,Oct-Nov,Mar-Apr,3.09
+Brinjal,Vegetable,Laterite,19-29,500-800,Rabi,NPK 12:32:16,Stem borer,Nagaland,Oct-Nov,Mar-Apr,2.78
+Ragi,Cereal,Sandy,14-24,1500-2000,Kharif,Urea,Fall armyworm,Tamil Nadu,Jun-Jul,Sep-Oct,2.72
+Coffee,Plantation,Sandy,25-35,300-400,Perennial,Gypsum,Aphids,Goa,Varies,Varies,2.57
+Ragi,Cereal,Red,28-38,600-700,Rabi,DAP,Thrips,Tripura,Oct-Nov,Mar-Apr,2.7
+Apple,Fruit,Clay Loam,24-34,900-1200,Annual,Ammonium Sulphate,Pod borer,Goa,Varies,Varies,27
+Jowar,Cereal,Laterite,30-40,500-800,Kharif,Muriate of Potash,Rust,Odisha,Jun-Jul,Sep-Oct,2.71
+Lentil,Pulse,Saline,25-35,600-700,Rabi,NPK 12:32:16,Leaf spot,Tamil Nadu,Oct-Nov,Mar-Apr,3.6
+Orange,Fruit,Saline,16-26,800-900,Annual,NPK 20:20:0,Powdery mildew,West Bengal,Varies,Varies,4.77
+Pearl Millet,Cereal,Red,19-29,1200-2000,Zaid,Gypsum,Whitefly,Chhattisgarh,Mar-Apr,Jun-Jul,3.82
+Garlic,Vegetable,Peaty,25-35,900-1000,Annual,Urea,Powdery mildew,Arunachal Pradesh,Varies,Varies,1.97
+Tur (Pigeon Pea),Pulse,Saline,28-38,200-500,Annual,Urea,None common,Tripura,Varies,Varies,1.72
+Cinnamon,Fruit,Red,28-38,800-1300,Kharif,Gypsum,Nematode,Madhya Pradesh,Jun-Jul,Sep-Oct,2.47
+Sugarcane,Plantation,Clay Loam,25-35,600-1100,Annual,Urea,Late blight,Haryana,Varies,Varies,80
+Tomato,Vegetable,Black (Regur),22-32,1000-1100,Annual,Gypsum,Powdery mildew,Punjab,Varies,Varies,1.59
+Moringa,Plantation,Alluvial,16-26,600-1400,Rabi,NPK 12:32:16,Late blight,Delhi,Oct-Nov,Mar-Apr,3.22
+Grapes,Fruit,Sandy,27-37,200-1000,Perennial,DAP,Rust,Jammu & Kashmir,Varies,Varies,4.39
+Soybean,Oilseed,Loamy,19-29,1000-1300,Perennial,Gypsum,Early blight,Kerala,Varies,Varies,2.35
+Coconut,Plantation,Red,12-22,600-1100,Zaid,Lime,Bacterial blight,Jammu & Kashmir,Mar-Apr,Jun-Jul,5021 nuts/tree
+Brinjal,Vegetable,Saline,28-38,1500-2000,Rabi,Gypsum,Thrips,Andhra Pradesh,Oct-Nov,Mar-Apr,2.38
+Guava,Fruit,Sandy Loam,16-26,500-1300,Perennial,NPK 20:20:0,None common,Madhya Pradesh,Varies,Varies,9
+Rapeseed,Oilseed,Clay Loam,22-32,1500-1700,Perennial,Urea,Cutworm,Telangana,Varies,Varies,4.44
+Moong (Green Gram),Pulse,Black (Regur),26-36,900-1000,Rabi,Ammonium Sulphate,Powdery mildew,West Bengal,Oct-Nov,Mar-Apr,1.64
+Onion,Vegetable,Saline,22-32,1500-1600,Zaid,Balanced NPK 100:50:50,Thrips,Rajasthan,Mar-Apr,Jun-Jul,4.72
+Drumstick,Other,Alluvial,29-39,300-500,Zaid,NPK 20:20:0,Mosaic virus,Haryana,Mar-Apr,Jun-Jul,2.21
+Moong (Green Gram),Pulse,Red,19-29,200-300,Zaid,Urea,Pod borer,Gujarat,Mar-Apr,Jun-Jul,2.05
+Lentil,Pulse,Red,15-25,300-1100,Perennial,Compost,Anthracnose,Kerala,Varies,Varies,2.98
+Orange,Fruit,Sandy,24-34,600-700,Perennial,NPK 12:32:16,Anthracnose,Jharkhand,Varies,Varies,1.57
+Cauliflower,Vegetable,Clay Loam,18-28,900-1200,Rabi,Ammonium Sulphate,Early blight,Bihar,Oct-Nov,Mar-Apr,2.01
+Okra,Vegetable,Alluvial,22-32,600-700,Annual,Balanced NPK 100:50:50,None common,Arunachal Pradesh,Varies,Varies,5.1
+Moringa,Fruit,Laterite,29-39,700-900,Rabi,Compost,Bacterial blight,Meghalaya,Oct-Nov,Mar-Apr,4.14
+Sesamum,Pulse,Alluvial,19-29,900-1000,Annual,Organic FYM,Mosaic virus,West Bengal,Varies,Varies,1.16
+Saffron,Oilseed,Laterite,14-24,1000-1300,Annual,Lime,Bacterial blight,Jammu & Kashmir,Varies,Varies,2.11
+Bottle Gourd,Fruit,Sandy Loam,13-23,900-1000,Rabi,NPK 20:20:0,Anthracnose,Arunachal Pradesh,Oct-Nov,Mar-Apr,3.43
+Betel Vine,Pulse,Clay Loam,10-20,600-1400,Kharif,Gypsum,Nematode,Meghalaya,Jun-Jul,Sep-Oct,3.56
+Guava,Fruit,Black (Regur),17-27,900-1000,Annual,Lime,Root rot,Puducherry,Varies,Varies,27
+Apple,Fruit,Loamy,19-29,1500-2000,Kharif,Muriate of Potash,Leaf roller,Punjab,Jun-Jul,Sep-Oct,17
+Moringa,Pulse,Black (Regur),17-27,1000-1200,Perennial,Gypsum,Nematode,Meghalaya,Varies,Varies,4.78
+Saffron,Oilseed,Clay Loam,30-40,300-800,Annual,Ammonium Sulphate,Bacterial blight,Punjab,Varies,Varies,3.29
+Cinnamon,Vegetable,Sandy Loam,13-23,1500-1800,Annual,Balanced NPK 100:50:50,Nematode,Punjab,Varies,Varies,2.18
+Soybean,Oilseed,Black (Regur),16-26,1500-2300,Kharif,Urea,Root rot,Kerala,Jun-Jul,Sep-Oct,5.02
+Banana,Fruit,Peaty,16-26,1200-1400,Rabi,Organic FYM,None common,West Bengal,Oct-Nov,Mar-Apr,58
+Rice,Cereal,Red,14-24,1000-1300,Rabi,DAP,Anthracnose,Uttarakhand,Oct-Nov,Mar-Apr,0.61
+Grapes,Fruit,Alluvial,15-25,600-700,Rabi,No fertilizer (organic),Powdery mildew,Telangana,Oct-Nov,Mar-Apr,0.99
+Cucumber,Cash Crop,Peaty,28-38,300-800,Annual,NPK 20:20:0,Fungal wilt,Punjab,Varies,Varies,4.19
+Coriander,Plantation,Alluvial,11-21,900-1400,Perennial,Balanced NPK 100:50:50,Whitefly,Andhra Pradesh,Varies,Varies,3.62
+Gram,Pulse,Saline,14-24,300-500,Zaid,Compost,Powdery mildew,Goa,Mar-Apr,Jun-Jul,2.89
+Okra,Vegetable,Peaty,29-39,800-900,Kharif,Balanced NPK 100:50:50,Powdery mildew,Delhi,Jun-Jul,Sep-Oct,4.14
+Mango,Fruit,Loamy,17-27,800-1100,Perennial,Ammonium Sulphate,Powdery mildew,Arunachal Pradesh,Varies,Varies,11
+Rapeseed,Oilseed,Sandy Loam,18-28,700-900,Perennial,DAP,Aphids,Jammu & Kashmir,Varies,Varies,1.29
+Papaya,Fruit,Peaty,11-21,1200-2000,Annual,Organic FYM,Anthracnose,Bihar,Varies,Varies,2.98
+Cardamom,Cereal,Sandy,29-39,600-900,Kharif,Compost,Locusts,Assam,Jun-Jul,Sep-Oct,1.6
+Urad,Pulse,Peaty,21-31,300-600,Annual,NPK 20:20:0,Powdery mildew,Uttarakhand,Varies,Varies,3.42
+Sorghum,Fruit,Alluvial,15-25,600-900,Zaid,Organic FYM,Stem borer,Odisha,Mar-Apr,Jun-Jul,4.34
+Pomegranate,Fruit,Red,30-40,200-300,Annual,NPK 20:20:0,Fruit borer,Madhya Pradesh,Varies,Varies,2.35
+Mustard,Oilseed,Saline,29-39,300-400,Rabi,Muriate of Potash,None common,Sikkim,Oct-Nov,Mar-Apr,0.77
+Cinnamon,Spice,Loamy,29-39,900-1400,Zaid,NPK 20:20:0,None common,Telangana,Mar-Apr,Jun-Jul,1.39
+Brinjal,Vegetable,Peaty,19-29,200-400,Perennial,Compost,Leaf roller,Uttar Pradesh,Varies,Varies,2.3
+Sesamum,Fruit,Sandy,20-30,300-400,Perennial,No fertilizer (organic),Powdery mildew,Odisha,Varies,Varies,1.56
+Orange,Fruit,Peaty,21-31,300-800,Kharif,Ammonium Sulphate,Stem borer,Chhattisgarh,Jun-Jul,Sep-Oct,4.86
+Cardamom,Spice,Clay Loam,19-29,300-800,Kharif,Organic FYM,Blast disease,Himachal Pradesh,Jun-Jul,Sep-Oct,4.51
+Betel Vine,Pulse,Clay Loam,13-23,500-1000,Annual,Ammonium Sulphate,Locusts,Haryana,Varies,Varies,2.31
+Cabbage,Vegetable,Sandy Loam,15-25,300-1100,Kharif,Lime,Locusts,Assam,Jun-Jul,Sep-Oct,4.24
+Sunflower,Oilseed,Black (Regur),14-24,600-800,Rabi,Compost,Cutworm,Tripura,Oct-Nov,Mar-Apr,3.39
+Moringa,Plantation,Saline,28-38,900-1700,Annual,Organic FYM,Powdery mildew,Maharashtra,Varies,Varies,1.13
+Cinnamon,Fruit,Sandy,28-38,200-500,Annual,DAP,Pod borer,Chhattisgarh,Varies,Varies,2.23
+Brinjal,Vegetable,Black (Regur),29-39,1200-2000,Perennial,Gypsum,Fall armyworm,Jharkhand,Varies,Varies,4.84
+Barley,Cereal,Saline,30-40,500-800,Annual,Gypsum,Locusts,West Bengal,Varies,Varies,4.54
+Cabbage,Vegetable,Peaty,30-40,400-500,Rabi,No fertilizer (organic),Late blight,Chhattisgarh,Oct-Nov,Mar-Apr,3.11
+Betel Vine,Cash Crop,Sandy,22-32,800-1100,Annual,Urea,Powdery mildew,Manipur,Varies,Varies,2.1
+Pineapple,Fruit,Sandy,29-39,400-700,Kharif,Compost,Anthracnose,West Bengal,Jun-Jul,Sep-Oct,19
+Mustard,Oilseed,Red,29-39,300-600,Annual,Ammonium Sulphate,Powdery mildew,Himachal Pradesh,Varies,Varies,1.86
+Tur (Pigeon Pea),Pulse,Peaty,21-31,200-500,Zaid,Muriate of Potash,Brown spot,Maharashtra,Mar-Apr,Jun-Jul,4.54
+Apple,Fruit,Red,12-22,600-700,Annual,Lime,Mosaic virus,Delhi,Varies,Varies,24
+Bajra,Cereal,Saline,14-24,1200-1700,Rabi,Muriate of Potash,Blast disease,Jammu & Kashmir,Oct-Nov,Mar-Apr,3.75
+Jute,Plantation,Alluvial,23-33,700-900,Perennial,Compost,Pod borer,Tripura,Varies,Varies,3.76
+Grapes,Fruit,Loamy,16-26,700-1500,Perennial,Gypsum,None common,Tamil Nadu,Varies,Varies,3.93
+Saffron,Oilseed,Laterite,29-39,400-700,Kharif,Balanced NPK 100:50:50,Early blight,Uttarakhand,Jun-Jul,Sep-Oct,2.9
+Soybean,Oilseed,Black (Regur),15-25,600-1100,Annual,Muriate of Potash,Powdery mildew,Haryana,Varies,Varies,4.25
+Cucumber,Cash Crop,Alluvial,23-33,200-700,Annual,Organic FYM,Rust,Rajasthan,Varies,Varies,4.59
+Sorghum,Cash Crop,Black (Regur),30-40,700-900,Rabi,Urea,Pod borer,Puducherry,Oct-Nov,Mar-Apr,4.34
+Sesamum,Plantation,Loamy,29-39,200-300,Kharif,NPK 12:32:16,Brown spot,Jammu & Kashmir,Jun-Jul,Sep-Oct,2.09
+Cardamom,Pulse,Sandy,17-27,600-700,Kharif,NPK 20:20:0,Powdery mildew,Manipur,Jun-Jul,Sep-Oct,3.94
+Masoor,Pulse,Saline,27-37,200-1000,Annual,NPK 20:20:0,Leaf spot,West Bengal,Varies,Varies,1.58
+Sweet Potato,Vegetable,Saline,23-33,400-500,Annual,Organic FYM,Aphids,Telangana,Varies,Varies,3.38
+Tobacco,Cash Crop,Alluvial,22-32,900-1000,Perennial,Organic FYM,Bacterial blight,Arunachal Pradesh,Varies,Varies,1.43
+Cauliflower,Vegetable,Black (Regur),28-38,700-900,Kharif,Organic FYM,Thrips,Maharashtra,Jun-Jul,Sep-Oct,3.7
+Bottle Gourd,Plantation,Red,14-24,300-800,Kharif,NPK 12:32:16,Brown spot,Punjab,Jun-Jul,Sep-Oct,4.4
+Rapeseed,Oilseed,Peaty,22-32,1000-1500,Zaid,Urea,None common,Manipur,Mar-Apr,Jun-Jul,1.6
+Ragi,Cereal,Sandy,13-23,700-1200,Perennial,No fertilizer (organic),Late blight,Delhi,Varies,Varies,4.41
+Coffee,Plantation,Loamy,21-31,1000-1300,Kharif,No fertilizer (organic),Powdery mildew,Haryana,Jun-Jul,Sep-Oct,2.08
+Coffee,Plantation,Sandy,20-30,300-400,Zaid,Balanced NPK 100:50:50,Pod borer,Tamil Nadu,Mar-Apr,Jun-Jul,2.11
+Cardamom,Oilseed,Loamy,21-31,900-1000,Zaid,Compost,Powdery mildew,Karnataka,Mar-Apr,Jun-Jul,3.74
+Jowar,Cereal,Clay Loam,21-31,1000-1200,Kharif,Muriate of Potash,Fungal wilt,Meghalaya,Jun-Jul,Sep-Oct,3.43
+Millet,Cereal,Sandy Loam,21-31,800-1600,Kharif,Compost,Cutworm,Meghalaya,Jun-Jul,Sep-Oct,2.57
+Cinnamon,Pulse,Saline,14-24,1000-1300,Perennial,Organic FYM,Powdery mildew,Karnataka,Varies,Varies,1.55
+Coffee,Plantation,Peaty,22-32,1000-1100,Zaid,NPK 12:32:16,Leaf spot,Chhattisgarh,Mar-Apr,Jun-Jul,1.54
+Brinjal,Vegetable,Laterite,13-23,400-500,Perennial,Muriate of Potash,Leaf spot,Chhattisgarh,Varies,Varies,5.08
+Rapeseed,Oilseed,Black (Regur),27-37,1000-1300,Zaid,Muriate of Potash,Leaf spot,Nagaland,Mar-Apr,Jun-Jul,4.63
+Betel Vine,Other,Laterite,13-23,500-700,Rabi,Gypsum,Stem borer,Gujarat,Oct-Nov,Mar-Apr,2.96
+Groundnut,Oilseed,Black (Regur),19-29,800-1300,Annual,Ammonium Sulphate,None common,Madhya Pradesh,Varies,Varies,3.63
+Rapeseed,Oilseed,Loamy,24-34,1500-2300,Zaid,Muriate of Potash,None common,Jharkhand,Mar-Apr,Jun-Jul,3.07
+Groundnut,Oilseed,Peaty,11-21,300-1100,Rabi,NPK 12:32:16,Blast disease,Odisha,Oct-Nov,Mar-Apr,2.47
+Cauliflower,Vegetable,Sandy,12-22,600-800,Annual,NPK 12:32:16,Cutworm,Manipur,Varies,Varies,2.21
+Tobacco,Cash Crop,Saline,28-38,400-600,Annual,No fertilizer (organic),Fungal wilt,Maharashtra,Varies,Varies,4.24
+Sorghum,Pulse,Alluvial,30-40,1200-1500,Rabi,Compost,Powdery mildew,Sikkim,Oct-Nov,Mar-Apr,3.41
+Okra,Vegetable,Loamy,17-27,1500-2000,Zaid,Gypsum,Aphids,Nagaland,Mar-Apr,Jun-Jul,1.21
+Bottle Gourd,Plantation,Laterite,20-30,1200-1400,Zaid,No fertilizer (organic),Root rot,Arunachal Pradesh,Mar-Apr,Jun-Jul,4.54
+Pomegranate,Fruit,Sandy Loam,26-36,1000-1100,Zaid,NPK 20:20:0,Late blight,Bihar,Mar-Apr,Jun-Jul,1.76
+Moong (Green Gram),Pulse,Sandy,22-32,1200-1700,Rabi,Muriate of Potash,Root rot,Puducherry,Oct-Nov,Mar-Apr,2.98
+Sugarcane,Plantation,Peaty,24-34,900-1200,Perennial,Urea,Aphids,Rajasthan,Varies,Varies,92
+Pumpkin,Vegetable,Laterite,28-38,700-800,Kharif,NPK 12:32:16,Early blight,Sikkim,Jun-Jul,Sep-Oct,4.48
+Bitter Gourd,Fruit,Peaty,10-20,300-800,Rabi,NPK 12:32:16,Mosaic virus,Gujarat,Oct-Nov,Mar-Apr,3.73
+Pomegranate,Fruit,Saline,27-37,500-800,Annual,NPK 12:32:16,Aphids,Rajasthan,Varies,Varies,3.21
+Chili,Vegetable,Red,13-23,800-1100,Zaid,Lime,Nematode,Tripura,Mar-Apr,Jun-Jul,1.7
+Pomegranate,Fruit,Alluvial,11-21,200-400,Zaid,Gypsum,Locusts,Chhattisgarh,Mar-Apr,Jun-Jul,2.03
+Sesamum,Cash Crop,Saline,20-30,400-900,Annual,No fertilizer (organic),Pod borer,Goa,Varies,Varies,2.66
+Drumstick,Fruit,Loamy,10-20,700-1000,Kharif,Ammonium Sulphate,Fall armyworm,Tamil Nadu,Jun-Jul,Sep-Oct,4.25
+Sorghum,Plantation,Sandy,30-40,1200-2000,Rabi,No fertilizer (organic),Leaf roller,Goa,Oct-Nov,Mar-Apr,2.85
+Guava,Fruit,Laterite,11-21,1200-1300,Rabi,Urea,Late blight,Maharashtra,Oct-Nov,Mar-Apr,21
+Cotton,Spice,Laterite,23-33,1000-1800,Perennial,No fertilizer (organic),Mosaic virus,Punjab,Varies,Varies,3.68
+Safflower,Oilseed,Peaty,22-32,700-900,Perennial,Lime,Root rot,Jharkhand,Varies,Varies,2.66
+Onion,Vegetable,Laterite,17-27,600-1400,Zaid,NPK 20:20:0,Pod borer,Tripura,Mar-Apr,Jun-Jul,1.8
+Drumstick,Cash Crop,Loamy,21-31,1000-1300,Zaid,DAP,Fall armyworm,Meghalaya,Mar-Apr,Jun-Jul,3.5
+Pear,Fruit,Red,19-29,200-500,Kharif,Organic FYM,Late blight,Manipur,Jun-Jul,Sep-Oct,1.98
+Arecanut,Plantation,Sandy,27-37,600-800,Kharif,Compost,Mosaic virus,Goa,Jun-Jul,Sep-Oct,1.44
+Apple,Fruit,Alluvial,13-23,800-1100,Perennial,DAP,Anthracnose,Tripura,Varies,Varies,12
+Rice,Cereal,Red,23-33,1500-2000,Perennial,Balanced NPK 100:50:50,Brown spot,Tripura,Varies,Varies,4.42
+Jowar,Cereal,Saline,17-27,1000-1100,Rabi,Ammonium Sulphate,Blast disease,Puducherry,Oct-Nov,Mar-Apr,5.0
+Pear,Fruit,Red,19-29,200-300,Zaid,Compost,Fungal wilt,Bihar,Mar-Apr,Jun-Jul,4.3
+Pumpkin,Other,Peaty,25-35,400-1200,Perennial,NPK 12:32:16,Brown spot,Himachal Pradesh,Varies,Varies,1.1
+Pumpkin,Fruit,Red,10-20,700-1000,Annual,Balanced NPK 100:50:50,None common,Assam,Varies,Varies,2.09
+Pomegranate,Fruit,Peaty,20-30,300-800,Kharif,Muriate of Potash,Cutworm,Andhra Pradesh,Jun-Jul,Sep-Oct,1.97
+Onion,Vegetable,Laterite,24-34,600-900,Zaid,Compost,Mosaic virus,Goa,Mar-Apr,Jun-Jul,1.26
+Grapes,Fruit,Black (Regur),24-34,600-800,Perennial,Balanced NPK 100:50:50,Locusts,Puducherry,Varies,Varies,4.59
+Mustard,Oilseed,Sandy,21-31,1200-1400,Rabi,Muriate of Potash,Early blight,West Bengal,Oct-Nov,Mar-Apr,3.27
+Papaya,Fruit,Peaty,25-35,1000-1200,Rabi,Balanced NPK 100:50:50,None common,Sikkim,Oct-Nov,Mar-Apr,3.82
+Cucumber,Other,Sandy Loam,12-22,1200-1300,Kharif,Lime,Locusts,Assam,Jun-Jul,Sep-Oct,2.78
+Safflower,Oilseed,Loamy,13-23,1500-1700,Annual,Gypsum,Aphids,Delhi,Varies,Varies,3.28
+Pumpkin,Oilseed,Peaty,23-33,900-1700,Kharif,Lime,Late blight,Meghalaya,Jun-Jul,Sep-Oct,4.28
+Pear,Fruit,Alluvial,16-26,1200-1300,Kharif,Ammonium Sulphate,Nematode,Nagaland,Jun-Jul,Sep-Oct,1.83
+Millet,Cereal,Alluvial,19-29,800-1000,Rabi,Balanced NPK 100:50:50,Mosaic virus,Manipur,Oct-Nov,Mar-Apr,4.48
+Guava,Fruit,Clay Loam,22-32,300-1100,Rabi,Balanced NPK 100:50:50,Nematode,Bihar,Oct-Nov,Mar-Apr,13
+Pear,Fruit,Red,17-27,200-300,Zaid,Gypsum,Anthracnose,Arunachal Pradesh,Mar-Apr,Jun-Jul,3.1
+Orange,Fruit,Loamy,21-31,400-700,Rabi,No fertilizer (organic),None common,Bihar,Oct-Nov,Mar-Apr,1.35
+Maize,Cereal,Laterite,12-22,300-1100,Kharif,Gypsum,Fungal wilt,Meghalaya,Jun-Jul,Sep-Oct,3.16
+Barley,Cereal,Loamy,17-27,1000-1200,Kharif,Muriate of Potash,Locusts,Tamil Nadu,Jun-Jul,Sep-Oct,2.37
+Rapeseed,Oilseed,Laterite,19-29,400-1200,Rabi,Ammonium Sulphate,Pod borer,Karnataka,Oct-Nov,Mar-Apr,1.77
+Tea,Plantation,Peaty,25-35,200-500,Perennial,Lime,Root rot,Nagaland,Varies,Varies,2.04
+Cotton,Fruit,Clay Loam,15-25,1000-1500,Rabi,NPK 20:20:0,Pod borer,Uttarakhand,Oct-Nov,Mar-Apr,4.0
+Jowar,Cereal,Clay Loam,23-33,1000-1800,Rabi,Ammonium Sulphate,Rust,Karnataka,Oct-Nov,Mar-Apr,1.96
+Cucumber,Cash Crop,Black (Regur),27-37,500-600,Zaid,Ammonium Sulphate,Anthracnose,Sikkim,Mar-Apr,Jun-Jul,3.69
+Coconut,Plantation,Laterite,25-35,500-800,Zaid,Urea,Brown spot,Puducherry,Mar-Apr,Jun-Jul,6556 nuts/tree
+Soybean,Oilseed,Laterite,29-39,500-1000,Rabi,Lime,Root rot,Tripura,Oct-Nov,Mar-Apr,2.06
+Sweet Potato,Fruit,Sandy,21-31,1000-1500,Perennial,DAP,Mosaic virus,Andhra Pradesh,Varies,Varies,3.67
+Banana,Fruit,Sandy Loam,23-33,200-1000,Rabi,No fertilizer (organic),Cutworm,Uttar Pradesh,Oct-Nov,Mar-Apr,36
+Saffron,Fruit,Red,16-26,700-900,Perennial,Compost,Rust,Andhra Pradesh,Varies,Varies,3.58
+Cabbage,Vegetable,Loamy,30-40,900-1400,Rabi,No fertilizer (organic),Nematode,Odisha,Oct-Nov,Mar-Apr,1.62
+Coffee,Plantation,Alluvial,26-36,200-300,Kharif,Urea,Powdery mildew,West Bengal,Jun-Jul,Sep-Oct,3.11
+Orange,Fruit,Red,10-20,500-1300,Perennial,Organic FYM,Leaf roller,Sikkim,Varies,Varies,3.89
+Bottle Gourd,Plantation,Alluvial,10-20,1000-1800,Perennial,Urea,Stem borer,Telangana,Varies,Varies,3.76
+Brinjal,Vegetable,Peaty,23-33,400-500,Kharif,Lime,Cutworm,Kerala,Jun-Jul,Sep-Oct,1.79
+Sweet Potato,Fruit,Clay Loam,12-22,700-1200,Perennial,Compost,Rust,Nagaland,Varies,Varies,2.09
+Gram,Pulse,Black (Regur),22-32,800-1300,Annual,Gypsum,Leaf roller,Manipur,Varies,Varies,0.72
+Moringa,Spice,Sandy Loam,28-38,300-1100,Kharif,NPK 20:20:0,Brown spot,Delhi,Jun-Jul,Sep-Oct,4.69
+Bitter Gourd,Fruit,Alluvial,12-22,1500-1800,Annual,Compost,Anthracnose,Punjab,Varies,Varies,2.1
+Maize,Cereal,Saline,14-24,800-900,Zaid,Muriate of Potash,Fall armyworm,Kerala,Mar-Apr,Jun-Jul,3.53
+Spinach,Vegetable,Red,12-22,1000-1300,Kharif,DAP,Powdery mildew,Kerala,Jun-Jul,Sep-Oct,3.98
+Pear,Fruit,Alluvial,30-40,600-1100,Perennial,NPK 20:20:0,Nematode,Jharkhand,Varies,Varies,4.46
+Guava,Fruit,Saline,19-29,500-600,Kharif,NPK 12:32:16,Cutworm,Rajasthan,Jun-Jul,Sep-Oct,30
+Cotton,Spice,Sandy Loam,21-31,300-400,Kharif,NPK 12:32:16,Late blight,Gujarat,Jun-Jul,Sep-Oct,3.43
+Tur (Pigeon Pea),Pulse,Clay Loam,24-34,1000-1800,Annual,Ammonium Sulphate,Whitefly,Uttar Pradesh,Varies,Varies,1.44
+Safflower,Oilseed,Alluvial,19-29,800-1300,Kharif,No fertilizer (organic),Thrips,Delhi,Jun-Jul,Sep-Oct,4.44
+Jute,Plantation,Red,14-24,600-900,Zaid,Gypsum,Cutworm,Haryana,Mar-Apr,Jun-Jul,1.42
+Coriander,Plantation,Black (Regur),21-31,600-800,Perennial,Compost,Fungal wilt,Assam,Varies,Varies,2.34
+Rice,Cereal,Sandy Loam,29-39,800-1100,Perennial,Organic FYM,Powdery mildew,Jammu & Kashmir,Varies,Varies,4.26
+Sesamum,Fruit,Sandy Loam,29-39,500-1000,Zaid,Muriate of Potash,Fruit borer,Maharashtra,Mar-Apr,Jun-Jul,2.34
+Drumstick,Vegetable,Sandy Loam,22-32,600-1100,Zaid,DAP,Fall armyworm,Assam,Mar-Apr,Jun-Jul,3.29
+Sorghum,Plantation,Laterite,24-34,600-700,Perennial,Balanced NPK 100:50:50,Early blight,West Bengal,Varies,Varies,3.11
+Cotton,Spice,Clay Loam,12-22,900-1700,Perennial,Compost,Fruit borer,Jharkhand,Varies,Varies,3.39
+Saffron,Other,Alluvial,21-31,1000-1800,Kharif,DAP,None common,Kerala,Jun-Jul,Sep-Oct,3.32
+Barley,Cereal,Sandy Loam,23-33,300-400,Kharif,NPK 12:32:16,Rust,Telangana,Jun-Jul,Sep-Oct,3.88
+Apple,Fruit,Sandy Loam,22-32,900-1700,Annual,Muriate of Potash,Nematode,Uttar Pradesh,Varies,Varies,23
+Urad,Pulse,Clay Loam,12-22,300-500,Zaid,NPK 12:32:16,Root rot,Chhattisgarh,Mar-Apr,Jun-Jul,3.98
+Cauliflower,Vegetable,Black (Regur),24-34,900-1200,Kharif,NPK 12:32:16,Leaf roller,Himachal Pradesh,Jun-Jul,Sep-Oct,3.15
+Cabbage,Vegetable,Red,17-27,1000-1200,Annual,Muriate of Potash,Root rot,Jharkhand,Varies,Varies,2.59
+Pomegranate,Fruit,Red,30-40,1500-2000,Perennial,Urea,Mosaic virus,Sikkim,Varies,Varies,4.26
+Cardamom,Spice,Alluvial,16-26,500-800,Kharif,Compost,Whitefly,Himachal Pradesh,Jun-Jul,Sep-Oct,3.93
+Safflower,Oilseed,Loamy,13-23,600-1100,Annual,Balanced NPK 100:50:50,Root rot,Sikkim,Varies,Varies,2.37
+Masoor,Pulse,Sandy Loam,24-34,1200-1400,Zaid,Compost,Fall armyworm,Haryana,Mar-Apr,Jun-Jul,3.33
+Grapes,Fruit,Black (Regur),15-25,700-900,Annual,Ammonium Sulphate,Powdery mildew,Sikkim,Varies,Varies,1.43
+Coffee,Plantation,Peaty,30-40,400-1200,Rabi,Gypsum,Pod borer,West Bengal,Oct-Nov,Mar-Apr,1.47
+Cucumber,Cereal,Sandy Loam,10-20,900-1100,Rabi,Ammonium Sulphate,Thrips,Telangana,Oct-Nov,Mar-Apr,3.37
+Drumstick,Spice,Loamy,25-35,400-500,Annual,Urea,None common,Kerala,Varies,Varies,1.88
+Brinjal,Vegetable,Loamy,28-38,900-1700,Annual,DAP,Fall armyworm,Bihar,Varies,Varies,2.09
+Betel Vine,Other,Alluvial,24-34,1000-1200,Perennial,DAP,Mosaic virus,Jammu & Kashmir,Varies,Varies,3.19
+Bajra,Cereal,Sandy,21-31,300-800,Kharif,NPK 20:20:0,Brown spot,Himachal Pradesh,Jun-Jul,Sep-Oct,3.99
+Cardamom,Oilseed,Saline,14-24,500-700,Kharif,Compost,Nematode,Jharkhand,Jun-Jul,Sep-Oct,2.13
+Safflower,Oilseed,Sandy,28-38,600-1400,Kharif,Muriate of Potash,None common,Himachal Pradesh,Jun-Jul,Sep-Oct,2.09
+Chili,Vegetable,Red,17-27,400-700,Rabi,Balanced NPK 100:50:50,Fruit borer,Andhra Pradesh,Oct-Nov,Mar-Apr,1.72
+Saffron,Spice,Loamy,12-22,1500-1600,Perennial,Lime,Mosaic virus,Karnataka,Varies,Varies,4.04
+Pumpkin,Plantation,Sandy Loam,28-38,200-300,Perennial,Balanced NPK 100:50:50,Anthracnose,Nagaland,Varies,Varies,1.9
+Pear,Fruit,Clay Loam,16-26,900-1200,Zaid,NPK 12:32:16,Root rot,Jharkhand,Mar-Apr,Jun-Jul,3.26
+Drumstick,Cash Crop,Alluvial,11-21,300-800,Kharif,DAP,Blast disease,Chhattisgarh,Jun-Jul,Sep-Oct,3.28
+Cardamom,Vegetable,Red,30-40,600-800,Zaid,DAP,Powdery mildew,Gujarat,Mar-Apr,Jun-Jul,1.84
+Jute,Plantation,Clay Loam,30-40,600-800,Perennial,Balanced NPK 100:50:50,Aphids,Nagaland,Varies,Varies,1.09
+Pearl Millet,Cereal,Saline,17-27,1000-1500,Kharif,Urea,Leaf spot,Maharashtra,Jun-Jul,Sep-Oct,4.61
+Cardamom,Oilseed,Loamy,12-22,500-1000,Kharif,No fertilizer (organic),Whitefly,Bihar,Jun-Jul,Sep-Oct,2.63
+Sesamum,Spice,Red,30-40,1500-1700,Kharif,Lime,Fall armyworm,Uttar Pradesh,Jun-Jul,Sep-Oct,2.94
+Cauliflower,Vegetable,Red,23-33,1200-1700,Rabi,DAP,Whitefly,West Bengal,Oct-Nov,Mar-Apr,3.93
+Pineapple,Fruit,Clay Loam,20-30,400-600,Zaid,Balanced NPK 100:50:50,Aphids,Kerala,Mar-Apr,Jun-Jul,25
+Brinjal,Vegetable,Sandy,16-26,1000-1800,Annual,NPK 20:20:0,Mosaic virus,Rajasthan,Varies,Varies,1.65
+Grapes,Fruit,Clay Loam,13-23,500-1000,Annual,DAP,Locusts,Delhi,Varies,Varies,5.2
+Rapeseed,Oilseed,Clay Loam,28-38,800-1100,Annual,Balanced NPK 100:50:50,Blast disease,Tripura,Varies,Varies,3.33
+Pearl Millet,Cereal,Saline,12-22,200-500,Rabi,Urea,Leaf roller,Himachal Pradesh,Oct-Nov,Mar-Apr,2.29
+Tobacco,Cash Crop,Clay Loam,22-32,300-1100,Annual,Compost,Cutworm,Karnataka,Varies,Varies,0.9
+Banana,Fruit,Peaty,20-30,800-1600,Kharif,NPK 12:32:16,Leaf spot,Madhya Pradesh,Jun-Jul,Sep-Oct,35
+Jowar,Cereal,Black (Regur),23-33,300-800,Annual,Compost,Leaf roller,Tamil Nadu,Varies,Varies,3.69
+Tea,Plantation,Alluvial,14-24,200-400,Perennial,Organic FYM,Locusts,Telangana,Varies,Varies,2.96
+Onion,Vegetable,Sandy Loam,14-24,600-700,Kharif,Organic FYM,Powdery mildew,Karnataka,Jun-Jul,Sep-Oct,2.73
+Pearl Millet,Cereal,Loamy,26-36,700-800,Perennial,Compost,Blast disease,Gujarat,Varies,Varies,1.93
+Masoor,Pulse,Peaty,10-20,200-300,Rabi,Urea,Early blight,Gujarat,Oct-Nov,Mar-Apr,2.08
+Bajra,Cereal,Clay Loam,17-27,700-900,Perennial,No fertilizer (organic),Root rot,Karnataka,Varies,Varies,4.18
+Soybean,Oilseed,Alluvial,15-25,500-1300,Kharif,Ammonium Sulphate,Aphids,Delhi,Jun-Jul,Sep-Oct,2.53
+Mustard,Oilseed,Black (Regur),27-37,900-1000,Zaid,NPK 20:20:0,Pod borer,Goa,Mar-Apr,Jun-Jul,4.22
+Potato,Vegetable,Sandy Loam,28-38,900-1100,Annual,NPK 20:20:0,Cutworm,Uttar Pradesh,Varies,Varies,3.98
+Cauliflower,Vegetable,Sandy Loam,10-20,1500-2000,Zaid,DAP,Brown spot,Telangana,Mar-Apr,Jun-Jul,4.6
+Jowar,Cereal,Sandy,12-22,200-400,Annual,Ammonium Sulphate,Leaf spot,Delhi,Varies,Varies,2.95
+Gram,Pulse,Peaty,14-24,1500-2000,Kharif,Compost,Fall armyworm,Punjab,Jun-Jul,Sep-Oct,3.17
+Grapes,Fruit,Sandy,20-30,800-1100,Zaid,Gypsum,Bacterial blight,Kerala,Mar-Apr,Jun-Jul,1.0
+Urad,Pulse,Black (Regur),15-25,900-1400,Zaid,Ammonium Sulphate,Whitefly,Jharkhand,Mar-Apr,Jun-Jul,2.67
+Cucumber,Fruit,Loamy,18-28,300-400,Rabi,Balanced NPK 100:50:50,Pod borer,Jammu & Kashmir,Oct-Nov,Mar-Apr,3.77
+Mango,Fruit,Red,12-22,500-800,Perennial,Lime,Leaf roller,Meghalaya,Varies,Varies,17
+Onion,Vegetable,Alluvial,22-32,900-1700,Annual,NPK 20:20:0,Whitefly,Chhattisgarh,Varies,Varies,1.75
+Soybean,Oilseed,Alluvial,17-27,400-600,Perennial,Organic FYM,Anthracnose,Manipur,Varies,Varies,4.06
+Onion,Vegetable,Alluvial,12-22,500-1000,Rabi,DAP,Root rot,Bihar,Oct-Nov,Mar-Apr,1.17
+Jute,Plantation,Clay Loam,25-35,200-700,Perennial,Muriate of Potash,Nematode,Assam,Varies,Varies,4.16
+Cucumber,Oilseed,Alluvial,29-39,1200-2000,Rabi,Balanced NPK 100:50:50,Pod borer,Andhra Pradesh,Oct-Nov,Mar-Apr,2.63
+Jowar,Cereal,Sandy,22-32,400-900,Rabi,Balanced NPK 100:50:50,Locusts,Kerala,Oct-Nov,Mar-Apr,3.72
+Maize,Cereal,Sandy Loam,25-35,1000-1500,Zaid,Compost,Locusts,Maharashtra,Mar-Apr,Jun-Jul,2.13
+Rapeseed,Oilseed,Alluvial,18-28,200-700,Annual,Organic FYM,None common,Goa,Varies,Varies,5.27
+Moong (Green Gram),Pulse,Laterite,18-28,1000-1100,Rabi,Compost,Fruit borer,Gujarat,Oct-Nov,Mar-Apr,5.05
+Tea,Plantation,Laterite,28-38,700-1000,Annual,Urea,Leaf spot,Nagaland,Varies,Varies,1.88
+Sunflower,Oilseed,Loamy,27-37,600-800,Perennial,Urea,Aphids,Punjab,Varies,Varies,1.6
+Bottle Gourd,Cereal,Sandy Loam,29-39,500-700,Zaid,No fertilizer (organic),Blast disease,Puducherry,Mar-Apr,Jun-Jul,4.42
+Jowar,Cereal,Red,28-38,400-500,Annual,Organic FYM,Aphids,Gujarat,Varies,Varies,3.84
+Moong (Green Gram),Pulse,Sandy,20-30,400-600,Perennial,Balanced NPK 100:50:50,Early blight,Manipur,Varies,Varies,2.45
+Sweet Potato,Vegetable,Saline,15-25,800-1100,Zaid,Muriate of Potash,Blast disease,Arunachal Pradesh,Mar-Apr,Jun-Jul,1.28
+Pear,Fruit,Red,29-39,700-1500,Rabi,Balanced NPK 100:50:50,Fall armyworm,Bihar,Oct-Nov,Mar-Apr,4.12
+Pearl Millet,Cereal,Sandy Loam,20-30,400-500,Zaid,Gypsum,Stem borer,Karnataka,Mar-Apr,Jun-Jul,2.04
+Cauliflower,Vegetable,Black (Regur),10-20,200-700,Perennial,No fertilizer (organic),Powdery mildew,Odisha,Varies,Varies,4.32
+Guava,Fruit,Peaty,22-32,300-800,Annual,Balanced NPK 100:50:50,None common,Meghalaya,Varies,Varies,15
+Sugarcane,Plantation,Black (Regur),11-21,600-700,Zaid,NPK 12:32:16,Whitefly,Haryana,Mar-Apr,Jun-Jul,81
+Jute,Plantation,Red,12-22,1000-1100,Zaid,Compost,Fungal wilt,Delhi,Mar-Apr,Jun-Jul,2.32
+Jute,Plantation,Red,11-21,300-600,Rabi,NPK 20:20:0,Powdery mildew,Nagaland,Oct-Nov,Mar-Apr,3.57
+Onion,Vegetable,Sandy,17-27,300-400,Perennial,Compost,Thrips,Jammu & Kashmir,Varies,Varies,2.38
+Rice,Cereal,Black (Regur),19-29,1500-2300,Perennial,NPK 20:20:0,Whitefly,Uttar Pradesh,Varies,Varies,1.97
+Gram,Pulse,Black (Regur),19-29,800-1300,Perennial,Balanced NPK 100:50:50,Bacterial blight,Haryana,Varies,Varies,3.3
+Papaya,Fruit,Sandy Loam,15-25,900-1000,Zaid,Gypsum,Late blight,Karnataka,Mar-Apr,Jun-Jul,1.63
+Jowar,Cereal,Black (Regur),12-22,1500-1800,Annual,Ammonium Sulphate,None common,Goa,Varies,Varies,1.41
+Pineapple,Fruit,Clay Loam,27-37,1500-2000,Annual,NPK 20:20:0,Early blight,Tamil Nadu,Varies,Varies,10
+Pear,Fruit,Peaty,28-38,1000-1800,Annual,Muriate of Potash,Whitefly,Tripura,Varies,Varies,3.21
+Jute,Plantation,Laterite,14-24,200-700,Kharif,Balanced NPK 100:50:50,Powdery mildew,Assam,Jun-Jul,Sep-Oct,4.88
+Onion,Vegetable,Black (Regur),12-22,800-1600,Perennial,Lime,Root rot,Uttarakhand,Varies,Varies,2.03
+Wheat,Cereal,Clay Loam,13-23,800-1000,Rabi,Compost,Fall armyworm,Goa,Oct-Nov,Mar-Apr,4.34
+Urad,Pulse,Sandy,27-37,700-1200,Zaid,Ammonium Sulphate,Powdery mildew,Andhra Pradesh,Mar-Apr,Jun-Jul,3.14
+Tea,Plantation,Clay Loam,14-24,1200-2000,Perennial,Urea,Fruit borer,Delhi,Varies,Varies,3.2
+Grapes,Fruit,Loamy,18-28,700-800,Zaid,NPK 12:32:16,Pod borer,Karnataka,Mar-Apr,Jun-Jul,4.56
+Moong (Green Gram),Pulse,Red,19-29,900-1200,Zaid,No fertilizer (organic),Powdery mildew,Sikkim,Mar-Apr,Jun-Jul,3.1
+Mango,Fruit,Loamy,26-36,700-800,Annual,Muriate of Potash,Aphids,Tamil Nadu,Varies,Varies,30
+Tobacco,Cash Crop,Red,26-36,1200-1300,Rabi,NPK 20:20:0,Brown spot,Jammu & Kashmir,Oct-Nov,Mar-Apr,0.75
+Ragi,Cereal,Laterite,18-28,700-1200,Annual,Ammonium Sulphate,Powdery mildew,Puducherry,Varies,Varies,0.99
+Papaya,Fruit,Saline,24-34,400-900,Annual,Lime,Nematode,Gujarat,Varies,Varies,2.09
+Tur (Pigeon Pea),Pulse,Alluvial,22-32,200-400,Annual,NPK 20:20:0,Rust,Manipur,Varies,Varies,1.56
+Lentil,Pulse,Alluvial,10-20,900-1100,Rabi,Compost,Stem borer,Kerala,Oct-Nov,Mar-Apr,2.32
+Mustard,Oilseed,Clay Loam,22-32,700-1200,Zaid,NPK 20:20:0,Late blight,Tamil Nadu,Mar-Apr,Jun-Jul,3.91
+Pear,Fruit,Alluvial,26-36,1500-1800,Annual,Balanced NPK 100:50:50,Fungal wilt,Sikkim,Varies,Varies,2.3
+Bottle Gourd,Pulse,Sandy Loam,18-28,1500-1800,Zaid,NPK 12:32:16,Powdery mildew,Nagaland,Mar-Apr,Jun-Jul,4.74
+Coconut,Plantation,Peaty,17-27,200-1000,Perennial,Balanced NPK 100:50:50,Root rot,Meghalaya,Varies,Varies,6146 nuts/tree
+Sorghum,Plantation,Sandy,18-28,800-1300,Perennial,No fertilizer (organic),Leaf roller,Goa,Varies,Varies,3.75
+Coconut,Plantation,Laterite,27-37,1500-2000,Zaid,Lime,Pod borer,Uttarakhand,Mar-Apr,Jun-Jul,6392 nuts/tree
+Coffee,Plantation,Black (Regur),25-35,400-700,Annual,Muriate of Potash,Anthracnose,Delhi,Varies,Varies,1.84
+Tur (Pigeon Pea),Pulse,Sandy Loam,17-27,600-1100,Zaid,Organic FYM,Bacterial blight,Goa,Mar-Apr,Jun-Jul,2.52
+Bitter Gourd,Cereal,Saline,28-38,1200-1300,Perennial,NPK 20:20:0,Locusts,Bihar,Varies,Varies,4.13
+Coriander,Spice,Alluvial,14-24,400-600,Zaid,Ammonium Sulphate,Fall armyworm,Delhi,Mar-Apr,Jun-Jul,4.36
+Rapeseed,Oilseed,Black (Regur),25-35,700-900,Zaid,Balanced NPK 100:50:50,Leaf roller,Uttar Pradesh,Mar-Apr,Jun-Jul,2.4
+Jute,Plantation,Loamy,12-22,400-1200,Perennial,Balanced NPK 100:50:50,Powdery mildew,Rajasthan,Varies,Varies,2.61
+Rice,Cereal,Peaty,16-26,700-800,Zaid,Lime,Brown spot,Uttar Pradesh,Mar-Apr,Jun-Jul,3.69
+Potato,Vegetable,Sandy Loam,19-29,400-500,Perennial,Lime,Fall armyworm,Tamil Nadu,Varies,Varies,2.02
+Coriander,Fruit,Loamy,26-36,1200-2000,Zaid,Ammonium Sulphate,Anthracnose,West Bengal,Mar-Apr,Jun-Jul,2.76
+Sweet Potato,Vegetable,Red,22-32,200-400,Rabi,No fertilizer (organic),Cutworm,Assam,Oct-Nov,Mar-Apr,3.86
+Jute,Plantation,Sandy Loam,30-40,200-700,Zaid,Lime,Fungal wilt,Punjab,Mar-Apr,Jun-Jul,2.75
+Urad,Pulse,Alluvial,13-23,800-1300,Perennial,DAP,Thrips,Karnataka,Varies,Varies,2.42
+Wheat,Cereal,Clay Loam,13-23,1500-2300,Zaid,Compost,Fungal wilt,Nagaland,Mar-Apr,Jun-Jul,1.92
+Urad,Pulse,Saline,13-23,600-700,Kharif,Gypsum,Brown spot,Sikkim,Jun-Jul,Sep-Oct,1.53
+Arecanut,Plantation,Clay Loam,19-29,400-500,Annual,Gypsum,Brown spot,Nagaland,Varies,Varies,4.32
+Rice,Cereal,Black (Regur),13-23,1200-1700,Rabi,DAP,None common,Telangana,Oct-Nov,Mar-Apr,1.57
+Tomato,Vegetable,Loamy,19-29,600-1100,Kharif,DAP,Blast disease,Uttarakhand,Jun-Jul,Sep-Oct,0.97
+Rapeseed,Oilseed,Black (Regur),13-23,200-300,Rabi,Balanced NPK 100:50:50,Powdery mildew,Odisha,Oct-Nov,Mar-Apr,2.7
+Garlic,Vegetable,Sandy Loam,20-30,400-500,Perennial,Ammonium Sulphate,Late blight,Karnataka,Varies,Varies,4.35
+Bottle Gourd,Spice,Red,13-23,400-500,Rabi,DAP,Powdery mildew,Puducherry,Oct-Nov,Mar-Apr,3.57
+Cinnamon,Oilseed,Saline,22-32,700-1500,Kharif,Balanced NPK 100:50:50,Mosaic virus,Delhi,Jun-Jul,Sep-Oct,2.0
+Masoor,Pulse,Loamy,11-21,300-600,Zaid,Urea,Leaf spot,Uttarakhand,Mar-Apr,Jun-Jul,3.85
+Apple,Fruit,Peaty,26-36,1200-1300,Perennial,Balanced NPK 100:50:50,Mosaic virus,Kerala,Varies,Varies,23
+Cauliflower,Vegetable,Red,27-37,1200-1300,Kharif,Balanced NPK 100:50:50,Blast disease,Telangana,Jun-Jul,Sep-Oct,4.58
+Jute,Plantation,Loamy,20-30,500-800,Zaid,Urea,Locusts,Kerala,Mar-Apr,Jun-Jul,2.95
+Grapes,Fruit,Loamy,24-34,1200-1700,Kharif,Gypsum,Late blight,Maharashtra,Jun-Jul,Sep-Oct,1.49
+Maize,Cereal,Clay Loam,23-33,200-1000,Annual,Urea,Aphids,Himachal Pradesh,Varies,Varies,3.42
+Coriander,Other,Peaty,16-26,1500-2000,Zaid,Organic FYM,Leaf roller,Jammu & Kashmir,Mar-Apr,Jun-Jul,1.82
+Bitter Gourd,Cash Crop,Loamy,13-23,300-500,Kharif,Organic FYM,Nematode,Jammu & Kashmir,Jun-Jul,Sep-Oct,3.72
+Papaya,Fruit,Alluvial,15-25,900-1100,Perennial,DAP,Bacterial blight,Sikkim,Varies,Varies,1.36
+Pear,Fruit,Loamy,16-26,700-800,Perennial,Urea,Powdery mildew,Jammu & Kashmir,Varies,Varies,3.12
+Cucumber,Plantation,Saline,26-36,400-900,Kharif,Lime,Mosaic virus,Punjab,Jun-Jul,Sep-Oct,3.02
+Bottle Gourd,Other,Red,28-38,400-600,Kharif,Ammonium Sulphate,Anthracnose,Sikkim,Jun-Jul,Sep-Oct,3.1
+Pineapple,Fruit,Saline,17-27,600-1100,Zaid,NPK 12:32:16,Late blight,Himachal Pradesh,Mar-Apr,Jun-Jul,12
+Sesamum,Spice,Saline,26-36,600-1400,Zaid,No fertilizer (organic),Mosaic virus,Puducherry,Mar-Apr,Jun-Jul,2.79
+Banana,Fruit,Sandy Loam,14-24,1500-1700,Annual,Lime,Leaf spot,Manipur,Varies,Varies,40
+Masoor,Pulse,Peaty,25-35,1200-2000,Perennial,Balanced NPK 100:50:50,Mosaic virus,Delhi,Varies,Varies,3.93
+Cardamom,Cereal,Peaty,13-23,200-700,Rabi,Urea,Anthracnose,Punjab,Oct-Nov,Mar-Apr,2.06
+Sugarcane,Plantation,Sandy,14-24,200-500,Rabi,Lime,Leaf roller,Gujarat,Oct-Nov,Mar-Apr,112
+Cucumber,Pulse,Saline,27-37,500-1300,Perennial,NPK 20:20:0,Locusts,Himachal Pradesh,Varies,Varies,4.21
+Ragi,Cereal,Clay Loam,23-33,1500-1800,Annual,Urea,Stem borer,Arunachal Pradesh,Varies,Varies,2.11
+Cinnamon,Vegetable,Sandy Loam,28-38,1000-1800,Rabi,No fertilizer (organic),Brown spot,Tamil Nadu,Oct-Nov,Mar-Apr,3.24
+Pearl Millet,Cereal,Red,26-36,300-800,Kharif,Ammonium Sulphate,Bacterial blight,Jharkhand,Jun-Jul,Sep-Oct,1.65
+Tomato,Vegetable,Sandy Loam,24-34,400-500,Rabi,Organic FYM,Fungal wilt,Punjab,Oct-Nov,Mar-Apr,4.05
+Coriander,Plantation,Saline,27-37,700-800,Zaid,Lime,Rust,Odisha,Mar-Apr,Jun-Jul,3.29
+Sugarcane,Plantation,Peaty,27-37,800-900,Zaid,NPK 20:20:0,Brown spot,Meghalaya,Mar-Apr,Jun-Jul,81
+Spinach,Vegetable,Sandy,16-26,1200-2000,Perennial,Lime,None common,Manipur,Varies,Varies,1.27
+Cucumber,Vegetable,Saline,29-39,500-600,Zaid,Ammonium Sulphate,Whitefly,Rajasthan,Mar-Apr,Jun-Jul,2.25
+Sorghum,Other,Sandy Loam,26-36,1000-1500,Perennial,Urea,Pod borer,Delhi,Varies,Varies,3.26
+Gram,Pulse,Red,27-37,1000-1100,Kharif,NPK 20:20:0,Anthracnose,Manipur,Jun-Jul,Sep-Oct,4.31
+Cardamom,Pulse,Laterite,27-37,800-900,Rabi,Urea,Late blight,Nagaland,Oct-Nov,Mar-Apr,1.82
+Ragi,Cereal,Sandy,27-37,300-1100,Rabi,NPK 12:32:16,Powdery mildew,Rajasthan,Oct-Nov,Mar-Apr,2.61
+Rapeseed,Oilseed,Clay Loam,13-23,1000-1100,Annual,DAP,None common,Arunachal Pradesh,Varies,Varies,3.44
+Pearl Millet,Cereal,Peaty,13-23,600-900,Annual,DAP,Pod borer,Tripura,Varies,Varies,4.35
+Sorghum,Plantation,Red,27-37,500-700,Perennial,Lime,Pod borer,Manipur,Varies,Varies,1.78
+Papaya,Fruit,Peaty,27-37,400-500,Kharif,Urea,Fall armyworm,Sikkim,Jun-Jul,Sep-Oct,2.56
+Gram,Pulse,Laterite,21-31,500-1000,Annual,Muriate of Potash,Blast disease,Odisha,Varies,Varies,2.24
+Coconut,Plantation,Red,28-38,200-1000,Perennial,Balanced NPK 100:50:50,Thrips,Haryana,Varies,Varies,7381 nuts/tree
+Millet,Cereal,Black (Regur),16-26,1200-1700,Zaid,Organic FYM,Cutworm,Meghalaya,Mar-Apr,Jun-Jul,3.04
+Millet,Cereal,Sandy Loam,25-35,900-1200,Annual,Balanced NPK 100:50:50,Pod borer,Nagaland,Varies,Varies,3.28
+Betel Vine,Cash Crop,Clay Loam,15-25,200-500,Rabi,NPK 20:20:0,Leaf spot,Arunachal Pradesh,Oct-Nov,Mar-Apr,3.18
+Betel Vine,Oilseed,Sandy Loam,25-35,900-1400,Zaid,NPK 12:32:16,Early blight,Jharkhand,Mar-Apr,Jun-Jul,1.61
+Gram,Pulse,Red,27-37,500-800,Kharif,No fertilizer (organic),Aphids,Delhi,Jun-Jul,Sep-Oct,1.13
+Sorghum,Spice,Saline,16-26,200-1000,Zaid,Lime,Thrips,Andhra Pradesh,Mar-Apr,Jun-Jul,3.08
+Pear,Fruit,Saline,19-29,400-900,Annual,Lime,Aphids,Rajasthan,Varies,Varies,1.86
+Grapes,Fruit,Peaty,14-24,900-1100,Rabi,Compost,Fall armyworm,Meghalaya,Oct-Nov,Mar-Apr,3.89
+Bottle Gourd,Cash Crop,Alluvial,17-27,900-1100,Kharif,NPK 12:32:16,Nematode,Kerala,Jun-Jul,Sep-Oct,0.89
+Betel Vine,Spice,Loamy,24-34,200-300,Zaid,DAP,Leaf spot,Telangana,Mar-Apr,Jun-Jul,3.15
+Onion,Vegetable,Saline,15-25,800-1300,Zaid,Compost,Powdery mildew,Delhi,Mar-Apr,Jun-Jul,4.16
+Guava,Fruit,Peaty,22-32,700-1000,Perennial,Gypsum,Fungal wilt,Uttar Pradesh,Varies,Varies,24
+Sesamum,Plantation,Red,17-27,300-1100,Zaid,NPK 20:20:0,Cutworm,Odisha,Mar-Apr,Jun-Jul,1.74
+Soybean,Oilseed,Clay Loam,20-30,300-800,Perennial,Gypsum,Brown spot,Goa,Varies,Varies,2.01
+Maize,Cereal,Alluvial,14-24,1200-2000,Rabi,Muriate of Potash,Powdery mildew,Telangana,Oct-Nov,Mar-Apr,1.27
+Jowar,Cereal,Sandy,15-25,1000-1500,Annual,Compost,Powdery mildew,Uttar Pradesh,Varies,Varies,4.55
+Brinjal,Vegetable,Laterite,24-34,1200-1700,Perennial,Muriate of Potash,Rust,Jammu & Kashmir,Varies,Varies,2.18
+Coffee,Plantation,Sandy,15-25,1500-1800,Perennial,Compost,Fall armyworm,Haryana,Varies,Varies,1.57
+Pineapple,Fruit,Black (Regur),10-20,500-1300,Annual,Balanced NPK 100:50:50,Powdery mildew,Jammu & Kashmir,Varies,Varies,12
+Moong (Green Gram),Pulse,Loamy,29-39,1200-1300,Annual,Lime,None common,Bihar,Varies,Varies,1.57
+Rice,Cereal,Peaty,23-33,700-800,Annual,Ammonium Sulphate,Rust,Himachal Pradesh,Varies,Varies,3.13
+Cauliflower,Vegetable,Clay Loam,14-24,600-1100,Rabi,DAP,Pod borer,Sikkim,Oct-Nov,Mar-Apr,4.19
+Coconut,Plantation,Alluvial,28-38,1000-1100,Annual,Urea,Fruit borer,Manipur,Varies,Varies,6682 nuts/tree
+Rapeseed,Oilseed,Sandy Loam,13-23,400-900,Annual,NPK 12:32:16,Bacterial blight,Uttarakhand,Varies,Varies,3.1
+Chili,Vegetable,Laterite,23-33,1000-1800,Perennial,Muriate of Potash,Nematode,Jharkhand,Varies,Varies,2.83
+Mustard,Oilseed,Clay Loam,14-24,1500-1600,Rabi,Gypsum,Leaf spot,Odisha,Oct-Nov,Mar-Apr,1.43
+Cabbage,Vegetable,Saline,11-21,400-900,Kharif,DAP,Cutworm,Andhra Pradesh,Jun-Jul,Sep-Oct,4.4
+Millet,Cereal,Laterite,21-31,300-1100,Kharif,No fertilizer (organic),Fruit borer,Puducherry,Jun-Jul,Sep-Oct,4.82
+Brinjal,Vegetable,Red,30-40,900-1400,Kharif,NPK 20:20:0,Anthracnose,Puducherry,Jun-Jul,Sep-Oct,3.79
+Bajra,Cereal,Peaty,17-27,1200-1400,Kharif,Organic FYM,Rust,Manipur,Jun-Jul,Sep-Oct,0.67
+Chili,Vegetable,Sandy Loam,22-32,800-1600,Rabi,Lime,Stem borer,Arunachal Pradesh,Oct-Nov,Mar-Apr,4.11
+Brinjal,Vegetable,Saline,21-31,700-1000,Rabi,Compost,Brown spot,Chhattisgarh,Oct-Nov,Mar-Apr,4.57
+Onion,Vegetable,Clay Loam,26-36,300-1100,Kharif,Lime,Pod borer,Maharashtra,Jun-Jul,Sep-Oct,4.89
+Tomato,Vegetable,Saline,18-28,900-1400,Annual,Gypsum,None common,Kerala,Varies,Varies,4.36
+Pumpkin,Plantation,Saline,10-20,900-1000,Zaid,DAP,Fruit borer,Manipur,Mar-Apr,Jun-Jul,3.66
+Orange,Fruit,Clay Loam,21-31,1000-1800,Kharif,No fertilizer (organic),Bacterial blight,Kerala,Jun-Jul,Sep-Oct,2.0
+Cabbage,Vegetable,Peaty,15-25,900-1200,Zaid,NPK 20:20:0,Fall armyworm,Karnataka,Mar-Apr,Jun-Jul,2.0
+Coconut,Plantation,Laterite,17-27,500-800,Rabi,NPK 20:20:0,Brown spot,Jammu & Kashmir,Oct-Nov,Mar-Apr,7045 nuts/tree
+Sweet Potato,Oilseed,Black (Regur),13-23,300-800,Annual,Urea,None common,Uttarakhand,Varies,Varies,2.55
+Bottle Gourd,Cash Crop,Saline,20-30,900-1700,Zaid,Gypsum,Blast disease,Tripura,Mar-Apr,Jun-Jul,4.2
+Apple,Fruit,Alluvial,26-36,800-1300,Annual,Urea,Locusts,Gujarat,Varies,Varies,20
+Tea,Plantation,Black (Regur),26-36,900-1200,Kharif,Urea,Anthracnose,Assam,Jun-Jul,Sep-Oct,1.95
+Moong (Green Gram),Pulse,Sandy Loam,29-39,600-800,Annual,NPK 12:32:16,Rust,Karnataka,Varies,Varies,2.92
+Betel Vine,Oilseed,Loamy,23-33,500-1000,Zaid,Organic FYM,Fruit borer,Karnataka,Mar-Apr,Jun-Jul,2.8
+Orange,Fruit,Sandy,17-27,1000-1500,Perennial,NPK 20:20:0,Cutworm,Himachal Pradesh,Varies,Varies,4.21
+Wheat,Cereal,Clay Loam,25-35,400-1200,Annual,No fertilizer (organic),Root rot,Himachal Pradesh,Varies,Varies,2.58
+Ragi,Cereal,Black (Regur),15-25,200-400,Zaid,Gypsum,Powdery mildew,Bihar,Mar-Apr,Jun-Jul,2.53
+Betel Vine,Cash Crop,Peaty,27-37,600-900,Kharif,Ammonium Sulphate,Whitefly,Gujarat,Jun-Jul,Sep-Oct,4.77
+Arecanut,Plantation,Red,19-29,700-1000,Annual,Gypsum,None common,Arunachal Pradesh,Varies,Varies,2.24
+Brinjal,Vegetable,Red,15-25,1500-1800,Perennial,Balanced NPK 100:50:50,Fungal wilt,Goa,Varies,Varies,3.0
+Gram,Pulse,Sandy Loam,17-27,700-1000,Zaid,No fertilizer (organic),Bacterial blight,Sikkim,Mar-Apr,Jun-Jul,3.18
+Cinnamon,Cash Crop,Saline,26-36,900-1400,Rabi,Muriate of Potash,Stem borer,West Bengal,Oct-Nov,Mar-Apr,3.92
+Gram,Pulse,Red,22-32,300-400,Kharif,Gypsum,Thrips,Punjab,Jun-Jul,Sep-Oct,1.03
+Gram,Pulse,Sandy,29-39,400-500,Perennial,NPK 12:32:16,Rust,Kerala,Varies,Varies,3.72
+Groundnut,Oilseed,Peaty,15-25,200-300,Zaid,Organic FYM,Early blight,Chhattisgarh,Mar-Apr,Jun-Jul,4.7
+Garlic,Vegetable,Loamy,14-24,1000-1200,Annual,Compost,Late blight,Manipur,Varies,Varies,4.24
+Pepper,Other,Peaty,19-29,700-1200,Annual,NPK 20:20:0,Aphids,Chhattisgarh,Varies,Varies,2.09
+Cotton,Fruit,Alluvial,10-20,1000-1200,Zaid,NPK 12:32:16,Early blight,Jharkhand,Mar-Apr,Jun-Jul,1.55
+Bottle Gourd,Fruit,Alluvial,23-33,600-1400,Rabi,Urea,Thrips,Gujarat,Oct-Nov,Mar-Apr,2.17
+Pepper,Spice,Laterite,15-25,1500-2000,Perennial,NPK 20:20:0,Bacterial blight,Haryana,Varies,Varies,2.33
+Garlic,Vegetable,Peaty,18-28,800-1000,Kharif,Muriate of Potash,Cutworm,Tamil Nadu,Jun-Jul,Sep-Oct,1.41
+Cucumber,Fruit,Saline,25-35,500-800,Kharif,Muriate of Potash,Leaf roller,Jharkhand,Jun-Jul,Sep-Oct,1.65
+Brinjal,Vegetable,Red,24-34,200-400,Kharif,Muriate of Potash,Stem borer,Andhra Pradesh,Jun-Jul,Sep-Oct,1.77
+Moringa,Cash Crop,Loamy,11-21,700-800,Rabi,Urea,Bacterial blight,Tripura,Oct-Nov,Mar-Apr,2.55
+Coffee,Plantation,Sandy,22-32,200-300,Rabi,Ammonium Sulphate,None common,Chhattisgarh,Oct-Nov,Mar-Apr,1.62
+Bajra,Cereal,Loamy,13-23,1000-1200,Perennial,Ammonium Sulphate,Anthracnose,Tamil Nadu,Varies,Varies,4.14
+Barley,Cereal,Peaty,13-23,600-1100,Zaid,NPK 20:20:0,Nematode,Delhi,Mar-Apr,Jun-Jul,1.43
+Masoor,Pulse,Clay Loam,20-30,200-400,Zaid,Compost,Whitefly,Rajasthan,Mar-Apr,Jun-Jul,3.43
+Barley,Cereal,Saline,14-24,700-800,Rabi,Muriate of Potash,Early blight,Haryana,Oct-Nov,Mar-Apr,3.41
+Jowar,Cereal,Sandy Loam,30-40,400-1200,Kharif,Muriate of Potash,Early blight,Kerala,Jun-Jul,Sep-Oct,2.29
+Cauliflower,Vegetable,Laterite,10-20,800-1100,Rabi,NPK 12:32:16,Leaf roller,Andhra Pradesh,Oct-Nov,Mar-Apr,3.73
+Drumstick,Vegetable,Saline,15-25,1000-1300,Zaid,No fertilizer (organic),Late blight,Karnataka,Mar-Apr,Jun-Jul,4.37
+Sugarcane,Plantation,Peaty,14-24,900-1200,Zaid,Lime,Nematode,Chhattisgarh,Mar-Apr,Jun-Jul,60
+Tobacco,Cash Crop,Red,10-20,1200-1500,Annual,NPK 20:20:0,Root rot,Arunachal Pradesh,Varies,Varies,1.8
+Pineapple,Fruit,Peaty,25-35,1000-1200,Annual,NPK 12:32:16,Root rot,Madhya Pradesh,Varies,Varies,28
+Safflower,Oilseed,Black (Regur),26-36,1500-1600,Kharif,Muriate of Potash,Blast disease,Uttarakhand,Jun-Jul,Sep-Oct,0.73
+Coconut,Plantation,Alluvial,28-38,1500-2000,Perennial,Lime,Fungal wilt,Nagaland,Varies,Varies,9835 nuts/tree
+Tomato,Vegetable,Sandy Loam,17-27,1200-1300,Kharif,NPK 20:20:0,Powdery mildew,Andhra Pradesh,Jun-Jul,Sep-Oct,4.85
+Bottle Gourd,Cereal,Sandy Loam,27-37,800-1100,Kharif,Compost,Bacterial blight,Telangana,Jun-Jul,Sep-Oct,0.73
+Coriander,Pulse,Laterite,26-36,300-400,Rabi,Lime,Fruit borer,Assam,Oct-Nov,Mar-Apr,1.94
+Tea,Plantation,Peaty,23-33,300-1100,Zaid,Balanced NPK 100:50:50,Late blight,Nagaland,Mar-Apr,Jun-Jul,2.66
+Urad,Pulse,Red,27-37,800-1600,Zaid,Balanced NPK 100:50:50,Blast disease,Jharkhand,Mar-Apr,Jun-Jul,4.68
+Sweet Potato,Cash Crop,Peaty,20-30,700-1200,Perennial,No fertilizer (organic),Root rot,Sikkim,Varies,Varies,1.99
+Guava,Fruit,Sandy,21-31,900-1400,Perennial,Urea,Mosaic virus,Punjab,Varies,Varies,17
+Maize,Cereal,Red,19-29,200-500,Rabi,NPK 20:20:0,Root rot,Uttar Pradesh,Oct-Nov,Mar-Apr,4.39
+Chili,Vegetable,Peaty,27-37,1200-2000,Rabi,DAP,Leaf roller,Chhattisgarh,Oct-Nov,Mar-Apr,1.97
+Betel Vine,Vegetable,Laterite,18-28,600-700,Annual,Ammonium Sulphate,Fall armyworm,Puducherry,Varies,Varies,1.39
+Safflower,Oilseed,Red,25-35,1200-1300,Annual,Balanced NPK 100:50:50,Pod borer,Punjab,Varies,Varies,3.84
+Gram,Pulse,Sandy Loam,21-31,800-1300,Kharif,NPK 20:20:0,Mosaic virus,Manipur,Jun-Jul,Sep-Oct,4.66
+Guava,Fruit,Sandy,26-36,200-500,Annual,Compost,Cutworm,Maharashtra,Varies,Varies,24
+Apple,Fruit,Alluvial,22-32,900-1700,Annual,Lime,Aphids,Kerala,Varies,Varies,21
+Okra,Vegetable,Red,14-24,700-800,Perennial,Compost,Mosaic virus,Punjab,Varies,Varies,2.82
+Pomegranate,Fruit,Clay Loam,14-24,400-900,Annual,NPK 20:20:0,Early blight,Rajasthan,Varies,Varies,3.13
+Potato,Vegetable,Black (Regur),18-28,800-1100,Annual,DAP,Whitefly,Meghalaya,Varies,Varies,2.43
+Coconut,Plantation,Sandy Loam,29-39,1500-1600,Zaid,Muriate of Potash,Nematode,Sikkim,Mar-Apr,Jun-Jul,11730 nuts/tree
+Cinnamon,Oilseed,Loamy,11-21,500-700,Zaid,Muriate of Potash,None common,Arunachal Pradesh,Mar-Apr,Jun-Jul,3.78
+Ragi,Cereal,Saline,14-24,600-700,Zaid,No fertilizer (organic),Whitefly,Tamil Nadu,Mar-Apr,Jun-Jul,2.19
+Banana,Fruit,Laterite,16-26,1000-1800,Zaid,Lime,Early blight,Sikkim,Mar-Apr,Jun-Jul,29
+Maize,Cereal,Saline,26-36,200-500,Rabi,Urea,Pod borer,Assam,Oct-Nov,Mar-Apr,4.1
+Ragi,Cereal,Alluvial,12-22,800-1100,Zaid,DAP,Stem borer,Tamil Nadu,Mar-Apr,Jun-Jul,4.42
+Orange,Fruit,Peaty,13-23,700-1200,Annual,Lime,Aphids,Odisha,Varies,Varies,2.3
+Maize,Cereal,Laterite,26-36,600-900,Perennial,Ammonium Sulphate,Mosaic virus,Odisha,Varies,Varies,1.32
+Sweet Potato,Fruit,Laterite,26-36,600-700,Zaid,Ammonium Sulphate,Stem borer,Jharkhand,Mar-Apr,Jun-Jul,4.26
+Cabbage,Vegetable,Red,12-22,800-1600,Annual,Balanced NPK 100:50:50,Anthracnose,Kerala,Varies,Varies,2.67
+Cardamom,Fruit,Saline,20-30,900-1700,Rabi,NPK 20:20:0,Powdery mildew,West Bengal,Oct-Nov,Mar-Apr,3.4
+Arecanut,Plantation,Sandy,26-36,400-900,Rabi,Balanced NPK 100:50:50,Fall armyworm,Puducherry,Oct-Nov,Mar-Apr,1.16
+Soybean,Oilseed,Sandy Loam,14-24,200-500,Perennial,Ammonium Sulphate,Pod borer,Chhattisgarh,Varies,Varies,4.16
+Chili,Vegetable,Laterite,13-23,400-600,Kharif,Compost,Fungal wilt,Karnataka,Jun-Jul,Sep-Oct,3.41
+Orange,Fruit,Alluvial,21-31,300-800,Rabi,Lime,Fungal wilt,Andhra Pradesh,Oct-Nov,Mar-Apr,3.55
+Pineapple,Fruit,Loamy,14-24,400-600,Rabi,Urea,Powdery mildew,Tripura,Oct-Nov,Mar-Apr,8
+Garlic,Vegetable,Laterite,16-26,500-600,Rabi,Gypsum,Fungal wilt,Andhra Pradesh,Oct-Nov,Mar-Apr,4.0
+Potato,Vegetable,Clay Loam,11-21,1200-1700,Zaid,Ammonium Sulphate,Fungal wilt,Arunachal Pradesh,Mar-Apr,Jun-Jul,3.21
+Bajra,Cereal,Black (Regur),24-34,900-1000,Rabi,Lime,Thrips,Rajasthan,Oct-Nov,Mar-Apr,4.18
+Pineapple,Fruit,Alluvial,16-26,600-1100,Perennial,NPK 12:32:16,None common,Jammu & Kashmir,Varies,Varies,17
+Bottle Gourd,Oilseed,Clay Loam,19-29,1200-1300,Annual,Muriate of Potash,Late blight,Jammu & Kashmir,Varies,Varies,2.99
+Tobacco,Cash Crop,Red,28-38,1000-1200,Perennial,Ammonium Sulphate,Root rot,Chhattisgarh,Varies,Varies,1.09
+Arecanut,Plantation,Black (Regur),18-28,700-900,Kharif,DAP,Whitefly,Nagaland,Jun-Jul,Sep-Oct,2.56
+Pineapple,Fruit,Saline,15-25,800-1600,Perennial,Urea,None common,Odisha,Varies,Varies,18
+Cotton,Oilseed,Red,15-25,200-700,Zaid,NPK 12:32:16,Mosaic virus,Tripura,Mar-Apr,Jun-Jul,4.37
+Coffee,Plantation,Red,16-26,200-1000,Zaid,Urea,Late blight,Andhra Pradesh,Mar-Apr,Jun-Jul,3.14
+Rice,Cereal,Laterite,16-26,1200-1700,Perennial,Ammonium Sulphate,Late blight,Haryana,Varies,Varies,2.73
+Chili,Vegetable,Laterite,11-21,400-600,Kharif,Balanced NPK 100:50:50,Nematode,Punjab,Jun-Jul,Sep-Oct,1.07
+Coriander,Cash Crop,Black (Regur),11-21,300-800,Rabi,Muriate of Potash,Anthracnose,Tamil Nadu,Oct-Nov,Mar-Apr,3.52
+Tea,Plantation,Saline,21-31,200-300,Zaid,Organic FYM,Nematode,Delhi,Mar-Apr,Jun-Jul,1.95
+Millet,Cereal,Peaty,12-22,600-1100,Rabi,DAP,Leaf spot,Uttarakhand,Oct-Nov,Mar-Apr,2.1
+Banana,Fruit,Saline,11-21,300-1100,Annual,DAP,Early blight,Arunachal Pradesh,Varies,Varies,58
+Brinjal,Vegetable,Saline,20-30,600-1400,Annual,Compost,Nematode,Puducherry,Varies,Varies,1.6
+Moringa,Plantation,Red,29-39,500-800,Rabi,Urea,Whitefly,Uttar Pradesh,Oct-Nov,Mar-Apr,3.1
+Banana,Fruit,Clay Loam,11-21,700-1000,Annual,Balanced NPK 100:50:50,Brown spot,Uttar Pradesh,Varies,Varies,60
+Arecanut,Plantation,Sandy,12-22,600-900,Annual,Lime,Root rot,Tripura,Varies,Varies,1.28
+Cabbage,Vegetable,Saline,29-39,200-400,Rabi,Organic FYM,Root rot,Puducherry,Oct-Nov,Mar-Apr,4.0
+Bajra,Cereal,Loamy,14-24,1500-2000,Annual,Organic FYM,Late blight,Himachal Pradesh,Varies,Varies,4.53
+Jowar,Cereal,Sandy,28-38,1500-1800,Annual,Lime,Stem borer,Assam,Varies,Varies,3.0
+Sweet Potato,Pulse,Red,18-28,200-500,Perennial,Balanced NPK 100:50:50,Thrips,Jammu & Kashmir,Varies,Varies,1.78
+Coffee,Plantation,Sandy,20-30,200-500,Perennial,DAP,Early blight,Delhi,Varies,Varies,1.59
+Cucumber,Fruit,Laterite,26-36,600-800,Kharif,Organic FYM,Leaf roller,Tripura,Jun-Jul,Sep-Oct,1.35
+Tobacco,Cash Crop,Loamy,26-36,400-600,Zaid,Gypsum,Mosaic virus,Uttarakhand,Mar-Apr,Jun-Jul,3.29
+Sunflower,Oilseed,Peaty,14-24,500-600,Perennial,Ammonium Sulphate,Leaf spot,Uttarakhand,Varies,Varies,2.44
+Barley,Cereal,Sandy Loam,24-34,200-300,Annual,Balanced NPK 100:50:50,Mosaic virus,Tamil Nadu,Varies,Varies,1.42
+Banana,Fruit,Laterite,16-26,600-900,Annual,Organic FYM,None common,Chhattisgarh,Varies,Varies,27
+Garlic,Vegetable,Red,18-28,300-400,Annual,Lime,Locusts,Bihar,Varies,Varies,1.65
+Rapeseed,Oilseed,Red,19-29,1200-1400,Rabi,DAP,Pod borer,Sikkim,Oct-Nov,Mar-Apr,4.4
+Ragi,Cereal,Alluvial,25-35,1500-1600,Kharif,Ammonium Sulphate,Leaf roller,Haryana,Jun-Jul,Sep-Oct,2.27
+Cucumber,Cash Crop,Sandy,20-30,500-1300,Kharif,Gypsum,Fall armyworm,West Bengal,Jun-Jul,Sep-Oct,1.73
+Bottle Gourd,Pulse,Loamy,19-29,1500-2000,Perennial,NPK 20:20:0,Rust,West Bengal,Varies,Varies,4.36
+Betel Vine,Spice,Red,20-30,700-1200,Perennial,Urea,Aphids,Andhra Pradesh,Varies,Varies,1.44
+Jute,Plantation,Sandy Loam,29-39,1200-1400,Annual,DAP,Fruit borer,Jammu & Kashmir,Varies,Varies,3.26
+Pearl Millet,Cereal,Peaty,24-34,800-1600,Perennial,NPK 20:20:0,Fungal wilt,Kerala,Varies,Varies,3.6
+Pineapple,Fruit,Sandy Loam,16-26,1200-1700,Perennial,Compost,Root rot,Jharkhand,Varies,Varies,30
+Grapes,Fruit,Black (Regur),28-38,900-1000,Annual,Compost,Late blight,Maharashtra,Varies,Varies,3.46
+Tea,Plantation,Clay Loam,12-22,1200-1300,Annual,Ammonium Sulphate,Root rot,Andhra Pradesh,Varies,Varies,2.61
+Jowar,Cereal,Laterite,14-24,1200-1300,Rabi,Balanced NPK 100:50:50,Cutworm,Chhattisgarh,Oct-Nov,Mar-Apr,2.89
+Cucumber,Vegetable,Laterite,20-30,600-1400,Zaid,Ammonium Sulphate,Leaf spot,Puducherry,Mar-Apr,Jun-Jul,1.87
+Wheat,Cereal,Clay Loam,14-24,600-700,Zaid,Lime,Leaf roller,Uttar Pradesh,Mar-Apr,Jun-Jul,4.01
+Sweet Potato,Pulse,Sandy,10-20,500-1000,Annual,Ammonium Sulphate,Powdery mildew,Maharashtra,Varies,Varies,3.58
+Pepper,Other,Laterite,15-25,900-1100,Rabi,Lime,Fruit borer,Jammu & Kashmir,Oct-Nov,Mar-Apr,4.84
+Cotton,Fruit,Red,14-24,200-300,Kharif,Muriate of Potash,Mosaic virus,Delhi,Jun-Jul,Sep-Oct,2.78
+Sesamum,Pulse,Red,30-40,800-1300,Annual,Ammonium Sulphate,Fungal wilt,Odisha,Varies,Varies,2.65
+Cucumber,Spice,Sandy Loam,17-27,400-900,Annual,Urea,Fall armyworm,Andhra Pradesh,Varies,Varies,3.89
+Tobacco,Cash Crop,Clay Loam,27-37,1200-1500,Kharif,Urea,Fall armyworm,Andhra Pradesh,Jun-Jul,Sep-Oct,3.23
+Bottle Gourd,Pulse,Red,26-36,600-1100,Annual,DAP,Locusts,Delhi,Varies,Varies,3.03
+Pearl Millet,Cereal,Saline,19-29,1200-1300,Zaid,Lime,None common,Uttar Pradesh,Mar-Apr,Jun-Jul,2.8
+Bitter Gourd,Cash Crop,Clay Loam,21-31,600-900,Rabi,Urea,Leaf spot,Puducherry,Oct-Nov,Mar-Apr,3.05
+Onion,Vegetable,Loamy,28-38,400-1200,Kharif,Balanced NPK 100:50:50,Pod borer,Himachal Pradesh,Jun-Jul,Sep-Oct,3.26
+Drumstick,Pulse,Red,26-36,300-600,Zaid,Muriate of Potash,Fungal wilt,Karnataka,Mar-Apr,Jun-Jul,1.8
+Masoor,Pulse,Saline,14-24,1500-2000,Zaid,Muriate of Potash,Bacterial blight,Himachal Pradesh,Mar-Apr,Jun-Jul,3.63
+Bajra,Cereal,Black (Regur),14-24,1200-1400,Perennial,Ammonium Sulphate,None common,Rajasthan,Varies,Varies,1.86
+Jute,Plantation,Saline,21-31,200-500,Kharif,Urea,Blast disease,Chhattisgarh,Jun-Jul,Sep-Oct,2.31
+Orange,Fruit,Clay Loam,25-35,600-800,Annual,Ammonium Sulphate,Stem borer,Tamil Nadu,Varies,Varies,4.42
+Rapeseed,Oilseed,Alluvial,13-23,1000-1300,Perennial,Compost,Powdery mildew,Uttarakhand,Varies,Varies,1.81
+Moong (Green Gram),Pulse,Saline,22-32,900-1100,Annual,NPK 20:20:0,Locusts,Maharashtra,Varies,Varies,4.1
+Rapeseed,Oilseed,Alluvial,10-20,300-400,Perennial,DAP,Locusts,Bihar,Varies,Varies,3.42
+Brinjal,Vegetable,Laterite,11-21,200-1000,Kharif,Urea,Fungal wilt,Meghalaya,Jun-Jul,Sep-Oct,4.05
+Soybean,Oilseed,Black (Regur),29-39,400-900,Annual,Muriate of Potash,Whitefly,Nagaland,Varies,Varies,1.51
+Pearl Millet,Cereal,Sandy,23-33,1500-1800,Zaid,Muriate of Potash,None common,Haryana,Mar-Apr,Jun-Jul,1.59
+Pineapple,Fruit,Alluvial,18-28,600-800,Perennial,DAP,Early blight,Puducherry,Varies,Varies,14
+Pear,Fruit,Loamy,13-23,400-1200,Perennial,NPK 20:20:0,Fungal wilt,Manipur,Varies,Varies,1.38
+Onion,Vegetable,Alluvial,12-22,300-1100,Zaid,Gypsum,Stem borer,Delhi,Mar-Apr,Jun-Jul,3.06
+Rice,Cereal,Clay Loam,18-28,400-700,Perennial,Compost,Stem borer,Telangana,Varies,Varies,3.97
+Bottle Gourd,Spice,Clay Loam,12-22,1000-1200,Kharif,Ammonium Sulphate,Leaf spot,Jammu & Kashmir,Jun-Jul,Sep-Oct,3.52
+Sweet Potato,Cash Crop,Sandy,22-32,200-300,Zaid,Lime,Root rot,Haryana,Mar-Apr,Jun-Jul,4.45
+Okra,Vegetable,Red,27-37,200-700,Rabi,NPK 12:32:16,Leaf spot,Rajasthan,Oct-Nov,Mar-Apr,4.51
+Sweet Potato,Plantation,Black (Regur),30-40,900-1100,Rabi,Urea,Brown spot,Uttar Pradesh,Oct-Nov,Mar-Apr,3.82
+Drumstick,Spice,Black (Regur),27-37,1500-1800,Perennial,Lime,Late blight,Uttar Pradesh,Varies,Varies,0.7
+Barley,Cereal,Black (Regur),16-26,1500-2300,Perennial,Balanced NPK 100:50:50,Thrips,West Bengal,Varies,Varies,3.5
+Pearl Millet,Cereal,Red,25-35,1500-1600,Perennial,Compost,Leaf roller,Kerala,Varies,Varies,3.24
+Tea,Plantation,Sandy,13-23,900-1700,Rabi,Compost,Aphids,Jammu & Kashmir,Oct-Nov,Mar-Apr,3.04
+Masoor,Pulse,Saline,29-39,500-600,Rabi,Ammonium Sulphate,Root rot,Himachal Pradesh,Oct-Nov,Mar-Apr,4.4
+Pomegranate,Fruit,Black (Regur),28-38,1000-1200,Zaid,NPK 20:20:0,None common,Punjab,Mar-Apr,Jun-Jul,3.06
+Soybean,Oilseed,Red,23-33,400-700,Annual,Muriate of Potash,Late blight,Kerala,Varies,Varies,3.97
+Moong (Green Gram),Pulse,Red,10-20,900-1000,Kharif,Urea,Blast disease,Puducherry,Jun-Jul,Sep-Oct,1.55
+Brinjal,Vegetable,Loamy,14-24,500-700,Zaid,Lime,Late blight,Madhya Pradesh,Mar-Apr,Jun-Jul,1.58
+Bajra,Cereal,Loamy,29-39,300-600,Zaid,Ammonium Sulphate,Stem borer,Jharkhand,Mar-Apr,Jun-Jul,1.5
+Moong (Green Gram),Pulse,Peaty,26-36,500-1000,Rabi,NPK 12:32:16,Leaf roller,Assam,Oct-Nov,Mar-Apr,1.08
+Bitter Gourd,Plantation,Red,15-25,1500-1600,Kharif,Balanced NPK 100:50:50,Nematode,Tamil Nadu,Jun-Jul,Sep-Oct,1.55
+Pumpkin,Cereal,Black (Regur),11-21,1000-1200,Rabi,Urea,Early blight,Telangana,Oct-Nov,Mar-Apr,1.91
+Cinnamon,Cash Crop,Clay Loam,16-26,1500-1800,Rabi,DAP,Root rot,Kerala,Oct-Nov,Mar-Apr,1.67
+Arecanut,Plantation,Laterite,12-22,900-1700,Perennial,Urea,Powdery mildew,West Bengal,Varies,Varies,1.97
+Tea,Plantation,Sandy Loam,14-24,900-1100,Zaid,NPK 12:32:16,Brown spot,Maharashtra,Mar-Apr,Jun-Jul,1.32
+Jowar,Cereal,Red,13-23,900-1400,Perennial,Muriate of Potash,None common,Maharashtra,Varies,Varies,1.64
+Sugarcane,Plantation,Saline,27-37,500-600,Perennial,Lime,Early blight,Uttarakhand,Varies,Varies,73
+Bitter Gourd,Plantation,Sandy,10-20,800-1000,Rabi,Organic FYM,Powdery mildew,Goa,Oct-Nov,Mar-Apr,2.34
+Cotton,Cereal,Clay Loam,11-21,200-700,Annual,Urea,Powdery mildew,Telangana,Varies,Varies,2.85
+Moong (Green Gram),Pulse,Loamy,17-27,300-1100,Kharif,No fertilizer (organic),Mosaic virus,Madhya Pradesh,Jun-Jul,Sep-Oct,4.16
+Okra,Vegetable,Black (Regur),10-20,900-1200,Rabi,No fertilizer (organic),Late blight,Uttarakhand,Oct-Nov,Mar-Apr,3.25
+Pumpkin,Plantation,Red,22-32,400-700,Perennial,No fertilizer (organic),Powdery mildew,Uttar Pradesh,Varies,Varies,3.76
+Spinach,Vegetable,Alluvial,19-29,800-1100,Annual,Lime,Fall armyworm,Himachal Pradesh,Varies,Varies,2.02
+Spinach,Vegetable,Peaty,21-31,200-300,Perennial,Organic FYM,Late blight,Sikkim,Varies,Varies,1.05
+Millet,Cereal,Laterite,14-24,700-900,Annual,DAP,Powdery mildew,Andhra Pradesh,Varies,Varies,4.06
+Banana,Fruit,Sandy Loam,21-31,600-1400,Perennial,NPK 12:32:16,Leaf roller,Haryana,Varies,Varies,43
+Cauliflower,Vegetable,Loamy,26-36,1000-1100,Perennial,No fertilizer (organic),Thrips,Meghalaya,Varies,Varies,4.54
+Cucumber,Cash Crop,Black (Regur),16-26,900-1000,Kharif,Ammonium Sulphate,Blast disease,Tamil Nadu,Jun-Jul,Sep-Oct,4.13
+Jute,Plantation,Black (Regur),14-24,900-1100,Rabi,Lime,Powdery mildew,Uttar Pradesh,Oct-Nov,Mar-Apr,2.65
+Groundnut,Oilseed,Sandy Loam,23-33,900-1000,Zaid,NPK 20:20:0,Aphids,Uttar Pradesh,Mar-Apr,Jun-Jul,3.98
+Spinach,Vegetable,Saline,20-30,1500-1800,Perennial,Compost,Anthracnose,Nagaland,Varies,Varies,3.06
+Pumpkin,Fruit,Saline,14-24,600-800,Zaid,NPK 20:20:0,Early blight,Gujarat,Mar-Apr,Jun-Jul,4.94
+Ragi,Cereal,Sandy Loam,19-29,900-1100,Annual,Muriate of Potash,Leaf spot,Jharkhand,Varies,Varies,2.63
+Cotton,Oilseed,Laterite,13-23,200-500,Annual,Muriate of Potash,Late blight,Karnataka,Varies,Varies,2.09
+Bajra,Cereal,Sandy Loam,14-24,700-1200,Annual,Muriate of Potash,Thrips,Tamil Nadu,Varies,Varies,0.98
+Moringa,Oilseed,Loamy,20-30,400-500,Annual,Lime,Root rot,Manipur,Varies,Varies,3.63
+Okra,Vegetable,Saline,24-34,700-800,Perennial,Urea,Cutworm,Meghalaya,Varies,Varies,2.88
+Pomegranate,Fruit,Loamy,21-31,300-600,Kharif,Compost,Powdery mildew,Assam,Jun-Jul,Sep-Oct,2.9
+Chili,Vegetable,Alluvial,12-22,1000-1500,Kharif,Lime,Fruit borer,Assam,Jun-Jul,Sep-Oct,2.98
+Jowar,Cereal,Clay Loam,14-24,800-1100,Perennial,Organic FYM,Stem borer,Tamil Nadu,Varies,Varies,2.12
+Cucumber,Other,Black (Regur),16-26,900-1400,Perennial,NPK 12:32:16,Blast disease,Himachal Pradesh,Varies,Varies,4.18
+Saffron,Oilseed,Saline,29-39,300-500,Rabi,NPK 12:32:16,Early blight,Uttarakhand,Oct-Nov,Mar-Apr,2.81
+Guava,Fruit,Alluvial,23-33,1500-1800,Perennial,Muriate of Potash,Thrips,Chhattisgarh,Varies,Varies,30
+Sesamum,Vegetable,Red,22-32,600-1400,Perennial,Urea,Pod borer,Jammu & Kashmir,Varies,Varies,3.21
+Bottle Gourd,Vegetable,Alluvial,10-20,400-700,Zaid,Balanced NPK 100:50:50,Powdery mildew,Andhra Pradesh,Mar-Apr,Jun-Jul,1.69
+Brinjal,Vegetable,Red,25-35,1500-1700,Kharif,DAP,None common,Karnataka,Jun-Jul,Sep-Oct,3.39
+Betel Vine,Plantation,Saline,23-33,600-1100,Kharif,Organic FYM,Locusts,Arunachal Pradesh,Jun-Jul,Sep-Oct,3.56
+Sugarcane,Plantation,Red,20-30,900-1100,Zaid,Muriate of Potash,Leaf roller,Karnataka,Mar-Apr,Jun-Jul,83
+Saffron,Cash Crop,Alluvial,19-29,600-1400,Kharif,Lime,Brown spot,Tripura,Jun-Jul,Sep-Oct,3.66
+Jute,Plantation,Sandy Loam,20-30,1500-1800,Zaid,Balanced NPK 100:50:50,Leaf spot,Nagaland,Mar-Apr,Jun-Jul,2.43
+Sweet Potato,Oilseed,Alluvial,14-24,1000-1300,Zaid,Gypsum,Powdery mildew,Maharashtra,Mar-Apr,Jun-Jul,4.09
+Mango,Fruit,Peaty,17-27,500-1300,Annual,No fertilizer (organic),Locusts,Uttarakhand,Varies,Varies,25
+Masoor,Pulse,Loamy,12-22,300-500,Kharif,Gypsum,Nematode,Tamil Nadu,Jun-Jul,Sep-Oct,3.21
+Cinnamon,Other,Sandy Loam,15-25,600-700,Kharif,NPK 20:20:0,Cutworm,Uttarakhand,Jun-Jul,Sep-Oct,3.83
+Mustard,Oilseed,Laterite,14-24,300-800,Kharif,DAP,Stem borer,Tripura,Jun-Jul,Sep-Oct,2.77
+Arecanut,Plantation,Alluvial,26-36,1200-1300,Perennial,DAP,Bacterial blight,Punjab,Varies,Varies,1.48
+Moong (Green Gram),Pulse,Saline,16-26,1200-1400,Rabi,Balanced NPK 100:50:50,Nematode,Uttar Pradesh,Oct-Nov,Mar-Apr,1.77
+Chili,Vegetable,Sandy Loam,15-25,1000-1800,Rabi,Lime,Fall armyworm,Haryana,Oct-Nov,Mar-Apr,1.5
+Wheat,Cereal,Laterite,16-26,600-800,Annual,Urea,Mosaic virus,Bihar,Varies,Varies,4.93
+Bitter Gourd,Cash Crop,Saline,15-25,900-1000,Rabi,Organic FYM,Fruit borer,Madhya Pradesh,Oct-Nov,Mar-Apr,1.54
+Masoor,Pulse,Black (Regur),24-34,300-1100,Rabi,Gypsum,None common,Gujarat,Oct-Nov,Mar-Apr,3.72
+Barley,Cereal,Sandy Loam,25-35,300-800,Zaid,Gypsum,Fungal wilt,Arunachal Pradesh,Mar-Apr,Jun-Jul,2.73
+Cinnamon,Vegetable,Peaty,23-33,600-1100,Rabi,DAP,Early blight,Meghalaya,Oct-Nov,Mar-Apr,1.87
+Drumstick,Pulse,Clay Loam,24-34,1000-1100,Kharif,Muriate of Potash,Fruit borer,Rajasthan,Jun-Jul,Sep-Oct,4.15
+Jute,Plantation,Sandy Loam,16-26,700-900,Annual,Ammonium Sulphate,Whitefly,Kerala,Varies,Varies,4.4
+Chili,Vegetable,Clay Loam,21-31,900-1700,Perennial,Gypsum,Locusts,Karnataka,Varies,Varies,1.55
+Soybean,Oilseed,Loamy,25-35,500-700,Kharif,DAP,Mosaic virus,Punjab,Jun-Jul,Sep-Oct,4.12
+Sorghum,Oilseed,Clay Loam,29-39,1500-1800,Rabi,NPK 12:32:16,Fungal wilt,Sikkim,Oct-Nov,Mar-Apr,0.94
+Moringa,Plantation,Laterite,19-29,1500-2000,Perennial,Lime,Bacterial blight,Jharkhand,Varies,Varies,2.72
+Maize,Cereal,Clay Loam,13-23,800-1300,Zaid,Ammonium Sulphate,Late blight,Chhattisgarh,Mar-Apr,Jun-Jul,0.83
+Coriander,Oilseed,Loamy,23-33,400-700,Perennial,Gypsum,None common,Bihar,Varies,Varies,3.14
+Bitter Gourd,Plantation,Peaty,15-25,1000-1100,Perennial,NPK 12:32:16,Early blight,Goa,Varies,Varies,4.77
+Sweet Potato,Fruit,Sandy Loam,11-21,200-1000,Kharif,Muriate of Potash,Nematode,Gujarat,Jun-Jul,Sep-Oct,4.14
+Cabbage,Vegetable,Black (Regur),23-33,700-1000,Perennial,Organic FYM,Leaf roller,Meghalaya,Varies,Varies,1.66
+Mustard,Oilseed,Black (Regur),19-29,300-600,Rabi,Urea,Thrips,Maharashtra,Oct-Nov,Mar-Apr,1.36
+Cardamom,Other,Clay Loam,18-28,200-700,Annual,Urea,Root rot,Rajasthan,Varies,Varies,2.96
+Moong (Green Gram),Pulse,Black (Regur),16-26,700-1200,Annual,Balanced NPK 100:50:50,Root rot,Odisha,Varies,Varies,3.17
+Pepper,Vegetable,Loamy,30-40,300-1100,Rabi,NPK 12:32:16,Bacterial blight,Punjab,Oct-Nov,Mar-Apr,2.23
+Apple,Fruit,Saline,13-23,1200-1500,Zaid,DAP,Fall armyworm,Himachal Pradesh,Mar-Apr,Jun-Jul,24
+Bitter Gourd,Spice,Laterite,21-31,300-600,Annual,NPK 12:32:16,Powdery mildew,Meghalaya,Varies,Varies,2.72
+Pomegranate,Fruit,Saline,26-36,900-1700,Rabi,Urea,Powdery mildew,Nagaland,Oct-Nov,Mar-Apr,2.62
+Moringa,Vegetable,Loamy,18-28,1500-2300,Annual,Ammonium Sulphate,Fall armyworm,Arunachal Pradesh,Varies,Varies,3.39
+Betel Vine,Plantation,Red,17-27,400-700,Perennial,Ammonium Sulphate,Root rot,Uttarakhand,Varies,Varies,3.64
+Banana,Fruit,Sandy,19-29,1500-1700,Zaid,Balanced NPK 100:50:50,Fungal wilt,Kerala,Mar-Apr,Jun-Jul,45
+Grapes,Fruit,Red,16-26,200-400,Zaid,Gypsum,Early blight,Jharkhand,Mar-Apr,Jun-Jul,4.63
+Bajra,Cereal,Red,18-28,400-500,Zaid,NPK 12:32:16,Anthracnose,Jharkhand,Mar-Apr,Jun-Jul,2.09
+Drumstick,Cereal,Alluvial,12-22,700-1500,Zaid,DAP,Powdery mildew,Delhi,Mar-Apr,Jun-Jul,2.57
+Tur (Pigeon Pea),Pulse,Red,17-27,300-1100,Annual,DAP,Locusts,Meghalaya,Varies,Varies,4.61
+Tomato,Vegetable,Black (Regur),17-27,1200-1300,Zaid,Organic FYM,Fall armyworm,Arunachal Pradesh,Mar-Apr,Jun-Jul,2.77
+Grapes,Fruit,Laterite,14-24,300-500,Rabi,NPK 12:32:16,Late blight,Madhya Pradesh,Oct-Nov,Mar-Apr,2.09
+Drumstick,Other,Sandy Loam,13-23,700-1500,Perennial,Gypsum,Anthracnose,Kerala,Varies,Varies,5.03
+Sunflower,Oilseed,Loamy,21-31,600-700,Annual,Urea,Mosaic virus,Meghalaya,Varies,Varies,3.52
+Grapes,Fruit,Peaty,22-32,600-900,Kharif,Lime,Rust,Uttarakhand,Jun-Jul,Sep-Oct,2.15
+Pear,Fruit,Sandy,12-22,500-800,Rabi,Muriate of Potash,Late blight,Manipur,Oct-Nov,Mar-Apr,2.57
+Lentil,Pulse,Sandy,12-22,900-1400,Perennial,Organic FYM,Leaf spot,Madhya Pradesh,Varies,Varies,4.65
+Sugarcane,Plantation,Peaty,12-22,700-1200,Annual,No fertilizer (organic),Thrips,Arunachal Pradesh,Varies,Varies,80
+Pumpkin,Cereal,Alluvial,30-40,1500-1700,Perennial,Balanced NPK 100:50:50,Cutworm,Uttar Pradesh,Varies,Varies,2.67
+Rapeseed,Oilseed,Black (Regur),15-25,500-1300,Rabi,Compost,Anthracnose,Madhya Pradesh,Oct-Nov,Mar-Apr,3.78
+Bottle Gourd,Oilseed,Sandy,15-25,1500-2300,Zaid,NPK 12:32:16,Brown spot,Haryana,Mar-Apr,Jun-Jul,2.23
+Guava,Fruit,Alluvial,10-20,1000-1800,Rabi,DAP,Late blight,Assam,Oct-Nov,Mar-Apr,16
+Jute,Plantation,Clay Loam,29-39,800-1600,Zaid,Muriate of Potash,Aphids,Gujarat,Mar-Apr,Jun-Jul,1.75
+Wheat,Cereal,Clay Loam,24-34,1500-2000,Kharif,NPK 20:20:0,Leaf spot,Assam,Jun-Jul,Sep-Oct,2.15
+Garlic,Vegetable,Loamy,22-32,400-900,Rabi,Compost,Brown spot,Jammu & Kashmir,Oct-Nov,Mar-Apr,2.29
+Saffron,Oilseed,Clay Loam,14-24,200-500,Zaid,NPK 20:20:0,Fungal wilt,Chhattisgarh,Mar-Apr,Jun-Jul,4.26
+Pumpkin,Pulse,Alluvial,25-35,400-700,Perennial,Balanced NPK 100:50:50,Brown spot,Nagaland,Varies,Varies,2.38
+Tomato,Vegetable,Black (Regur),27-37,200-300,Zaid,NPK 20:20:0,Early blight,Puducherry,Mar-Apr,Jun-Jul,2.48
+Barley,Cereal,Sandy,26-36,1200-1700,Zaid,Ammonium Sulphate,Anthracnose,Gujarat,Mar-Apr,Jun-Jul,1.97
+Barley,Cereal,Sandy,15-25,1000-1500,Zaid,Gypsum,Cutworm,Haryana,Mar-Apr,Jun-Jul,2.26
+Sunflower,Oilseed,Black (Regur),20-30,200-400,Perennial,NPK 12:32:16,Mosaic virus,Gujarat,Varies,Varies,4.24
+Onion,Vegetable,Peaty,20-30,800-1000,Zaid,No fertilizer (organic),Early blight,Tripura,Mar-Apr,Jun-Jul,4.63
+Cinnamon,Cereal,Laterite,14-24,200-400,Rabi,Urea,Early blight,Karnataka,Oct-Nov,Mar-Apr,1.62
+Masoor,Pulse,Alluvial,24-34,700-1500,Perennial,Gypsum,Early blight,Bihar,Varies,Varies,4.58
