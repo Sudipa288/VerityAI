@@ -20,7 +20,7 @@ class RAGSearch:
         self.llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
     temperature=0,
-    gemini_api_key = "AIzaSyADqcyujDAB-zZTF3LPC0UIOi8XRC5WuAA",
+    gemini_api_key = "",
     max_tokens=None,
     timeout=None,
     max_retries=2,
