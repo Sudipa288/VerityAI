@@ -2,11 +2,13 @@ import os
 from dotenv import load_dotenv
 from src.vectorstore import FaissVectorStore
 from langchain_google_genai import ChatGoogleGenerativeAI
+import google.generativeai as genai
 
 load_dotenv()
 GEMINI_API_KEY=os.getenv("GEMINI_API_KEY")
+
 class RAGSearch:
-    def __init__(self, persist_dir: str = "faiss_store", embedding_model: str = "all-MiniLM-L6-v2", llm_model: str = "gemma2-9b-it"):
+    def _init_(self, persist_dir: str = "faiss_store", embedding_model: str = "all-MiniLM-L6-v2", llm_model: str = "gemma2-9b-it"):
         self.vectorstore = FaissVectorStore(persist_dir, embedding_model)
         # Load or build vectorstore
         faiss_path = os.path.join(persist_dir, "faiss.index")
@@ -17,16 +19,8 @@ class RAGSearch:
             self.vectorstore.build_from_documents(docs)
         else:
             self.vectorstore.load()
-        self.llm = ChatGoogleGenerativeAI(
-    model="gemini-2.5-flash",
-    temperature=0,
-    gemini_api_key = GEMINI_API_KEY,
-    max_tokens=None,
-    timeout=None,
-    max_retries=2,
-    # other params...)
-)
-        print(f"[INFO] Groq LLM initialized: {llm_model}")
+        self.llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash",temperature=0,google_api_key=GEMINI_API_KEY)
+        print(f"[INFO] GeminiAI is ready: {llm_model}")
 
     def search_and_summarize(self, query: str, top_k: int = 5) -> str:
         results = self.vectorstore.query(query, top_k=top_k)
@@ -39,7 +33,7 @@ class RAGSearch:
         return response.content
 
 # Example usage
-if __name__ == "__main__":
+if _name_ == "_main_":
     rag_search = RAGSearch()
     query = "Agricultural Schemes for West Bengal"
     summary = rag_search.search_and_summarize(query, top_k=3)
