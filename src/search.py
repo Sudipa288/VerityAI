@@ -4,7 +4,7 @@ from src.vectorstore import FaissVectorStore
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 load_dotenv()
-
+GEMINI_API_KEY=os.getenv("GEMINI_API_KEY")
 class RAGSearch:
     def __init__(self, persist_dir: str = "faiss_store", embedding_model: str = "all-MiniLM-L6-v2", llm_model: str = "gemma2-9b-it"):
         self.vectorstore = FaissVectorStore(persist_dir, embedding_model)
@@ -20,7 +20,7 @@ class RAGSearch:
         self.llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
     temperature=0,
-    gemini_api_key = "",
+    gemini_api_key = GEMINI_API_KEY,
     max_tokens=None,
     timeout=None,
     max_retries=2,
