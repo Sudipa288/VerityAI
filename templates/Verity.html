@@ -6,11 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VerityAI - Agricultural AI Assistant</title>
     <style>
+        /* CSS Styles */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: poppins;
+            font-family: 'Poppins', sans-serif;
             background-size: cover;
             background-position: center;
         }
@@ -94,6 +95,7 @@
         .messages-box {
             flex: 1;
             overflow-y: auto;
+            max-height: calc(100vh - 280px); /* ✅ Only chat scrolls */
             border: 1px solid var(--border-color);
             border-radius: 12px;
             padding: 20px;
@@ -167,6 +169,7 @@
             border-radius: 12px;
             word-wrap: break-word;
             line-height: 1.5;
+            white-space: pre-wrap;
         }
 
         .user .message-content {
@@ -180,18 +183,7 @@
             border: 1px solid var(--border-color);
         }
 
-        .message-time {
-            font-size: 12px;
-            color: var(--text-light);
-            margin-top: 4px;
-            text-align: right;
-        }
-
-        .user .message-time {
-            text-align: right;
-        }
-
-        /* Welcome State */
+        /* Welcome Section */
         .welcome-section {
             display: flex;
             flex-direction: column;
@@ -267,7 +259,6 @@
             border: 2px solid var(--border-color);
             border-radius: 8px;
             font-size: 14px;
-            font-family: inherit;
             transition: border-color 0.3s ease;
             resize: none;
             max-height: 120px;
@@ -324,57 +315,24 @@
         }
 
         @keyframes loading {
-
-            0%,
-            60%,
-            100% {
-                opacity: 0.3;
-            }
-
-            30% {
-                opacity: 1;
-            }
+            0%, 60%, 100% { opacity: 0.3; }
+            30% { opacity: 1; }
         }
 
-        /* Responsive */
-        @media (max-width: 768px) {
-            .header-content {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 10px;
-            }
-
-            .header-subtitle {
-                margin-left: 0;
-                font-size: 12px;
-            }
-
-            .message-content {
-                max-width: 85%;
-            }
-
-            .welcome-title {
-                font-size: 24px;
-            }
-
-            .quick-prompts {
-                grid-template-columns: 1fr;
-            }
-
-            .input-wrapper {
-                flex-direction: column;
-            }
-
-            .send-button {
-                width: 100%;
-            }
-        }
-
-        /* Loading State */
         .loading-message {
             display: flex;
             align-items: center;
             gap: 8px;
+        }
+
+        @media (max-width: 768px) {
+            .header-content { flex-direction: column; align-items: flex-start; gap: 10px; }
+            .header-subtitle { margin-left: 0; font-size: 12px; }
+            .message-content { max-width: 85%; }
+            .welcome-title { font-size: 24px; }
+            .quick-prompts { grid-template-columns: 1fr; }
+            .input-wrapper { flex-direction: column; }
+            .send-button { width: 100%; }
         }
     </style>
 </head>
@@ -481,7 +439,11 @@
 
             const contentDiv = document.createElement('div');
             contentDiv.className = 'message-content';
-            contentDiv.textContent = text;
+            contentDiv.innerHTML = text
+    .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>')   // **bold**
+    .replace(/\*(.*?)\*/g, '<i>$1</i>')       // *italic*
+    .replace(/`(.*?)`/g, '<code>$1</code>');  // inline code
+
 
             if (isUser) {
                 messageDiv.appendChild(contentDiv);
@@ -533,8 +495,9 @@
 
         // Call your trained model API
        // Call your trained model API (Flask backend)
+// Call Flask API dynamically (works whether you’re on localhost or deployed)
 async function callAgricultureModel(query) {
-    const response = await fetch('http://127.0.0.1:5000/ask', {
+    const response = await fetch('/ask', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -545,6 +508,7 @@ async function callAgricultureModel(query) {
     const data = await response.json();
     return data.response;
 }
+
 
         // Focus input on load
         queryInput.focus();
